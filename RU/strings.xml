@@ -1,83 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
 	<!-- A -->
-	<string name="acquisti_legati">All purchases are linked to your Google account</string>
-	<string name="aggiungi_account">Add an account</string>
-	<string name="aggiungi_cartella">Add a folder</string>
-	<string name="altezza_testo">Text Size</string>
+	<string name="acquisti_legati">Все покупки связаны с вашим Google account</string>
+	<string name="aggiungi_account">Добавь</string>
+	<string name="aggiungi_cartella">Добавь одну папку</string>
+	<string name="altezza_testo">Высота текста</string>
 	<!-- B -->
-	<string name="billing_non_supportato_titolo">Billing not supported</string>
-	<string name="billing_non_supportato_messaggio">The service is offline now, but you can use the app normaly.</string>
+	<string name="billing_non_supportato_titolo">Не возможно купить</string>
+	<string name="billing_non_supportato_messaggio">Услуги offline</string>
 	<!-- C -->
-	<string name="cancella">Delete</string>
-	<string name="cancellazione">Delecting files ..</string>
-	<string name="caricamento">Loading ..</string>
-	<string name="caricamento_veloce">It will take a moment ..</string>
-	<string name="cartella">Folder</string>
-	<string name="chiave_privata">Private Key</string>
-	<string name="click_lungo_per_aprire">Long click on a folder to open it !</string>
-	<string name="comprato">Purchashed</string>
-	<string name="comprato_no">Not purchashed</string>
-	<string name="compra_adesso">Pay Now</string>
-	<string name="condividi">Share</string>
+	<string name="cancella">Удалить</string>
+	<string name="cancellazione">Удаление файлов ..</string>
+	<string name="caricamento">Загрузка ..</string>
+	<string name="caricamento_veloce">Загрузка ..</string>
+	<string name="cartella">Папку</string>
+	<string name="chiave_privata">Приватный ключ</string>
+	<string name="click_lungo_per_aprire">Нажмите и удерживайте папку для того чтобы открылась</string>
+	<string name="comprato">Купили</string>
+	<string name="comprato_no">Не купили</string>
+	<string name="compra_adesso">Купите</string>
+	<string name="condividi">Доля</string>
 	<!-- D -->
-	<string name="devi_essere_pro">You must to be Pro</string>
-	<string name="disconneti">Disconnect</string>
-	<string name="download">Download</string>
+	<string name="devi_essere_pro">Стань про !</string>
+	<string name="disconneti">Выход</string>
 	<!-- E -->
 	<!-- F -->
-	<string name="fai_login">Please Login !</string>
+	<string name="fai_login">Пожалуйста создайте себе логин</string>
 	<!-- G -->
-	<string name="guarda">View</string>
+	<string name="guarda">Смотри</string>
 	<!-- H -->
-	<string name="host">Host</string>
 	<!-- I -->
-	<string name="indietro">Back</string>
-	<string name="info">Info</string>
+	<string name="indietro">Назад</string>
 	<!-- J -->
 	<!-- K -->
 	<!-- L -->
-	<string name="log_in">Loggin in ..</string>
+	<string name="log_in">Вход ..</string>
 	<!-- M -->
-	<string name="massime_dimensione">The file maximum size is 75 kB</string>
-	<string name="metti_wifi_on">Please turn Wifi on</string>
-	<string name="modifica">Modify</string>
-	<string name="muovi">Move</string>
+	<string name="massime_dimensione">Дапустим максимум размер 75 kB</string>
+	<string name="metti_wifi_on">Пожалуйста включите Wifi</string>
+	<string name="modifica">Изменить</string>
+	<string name="muovi">Перемистить</string>
 	<!-- N -->
-	<string name="nessun_account">No accounts</string>
-	<string name="nome_app">Turbo Client</string>
-	<string name="nome_utente">Username</string>
-	<string name="non_loggato">Not Logged</string>
+	<string name="nessun_account">Account не сушествует</string>
+	<string name="nome_utente">Имя пользавателя</string>
 	<!-- O -->
-	<string name="obbligatorio">Required</string>
-	<string name="obbligatorio_non">Not required</string>
+	<string name="obbligatorio">Необходимые</string>
+	<string name="obbligatorio_non">Ненужные</string>
 	<!-- P -->
-	<string name="password">Password</string>
-	<string name="porta">Port</string>
-	<string name="porta_non_lettere">Port must contain only digits</string>
-	<string name="preferenze">Preferences</string>
-	<string name="propieta">Property</string>
-	<string name="pro_protocoli">More Protocols</string>
-	<string name="pro_noads">No Ads</string>
+	<string name="porta">Дверь</string>
+	<string name="porta_non_lettere">Дверь должна содержать только числа</string>
+	<string name="preferenze">Настройки</string>
+	<string name="pro_protocoli">Дополнительные протоколы</string>
+	<string name="pro_noads">Некакой рекламы</string>
 	<!-- Q -->
 	<!-- R -->
-	<string name="riavva_per_tema">To change theme, restart the application</string>
-	<string name="riconneti">Try to reconnect !</string>
-	<string name="rinomina">Rename</string>
-	<string name="root">Root</string>
+	<string name="riavva_per_tema">Для того чтобы поменять тему перезагрузите програму</string>
+	<string name="rinomina">Изменить имя</string>
 	<!-- S -->
-	<string name="salva">Save</string>
-	<string name="seleziona">Select</string>
-	<string name="sicuro">Are you sure ?</string>
-	<string name="sottotitolo">by Vlad Mihalachi</string>
+	<string name="seleziona">Выбири</string>
+	<string name="sicuro">Вы уверены ?</string>
 	<!-- T -->
-	<string name="tag_non_vuoto">Tag must not be empty</string>
-	<string name="tipo_connessione">Connection Type</string>
-	<string name="tipo_proxy">Proxy Type</string>
-	<string name="tipo_protocolo">Protocol Type</string>
-	<string name="tutto">All</string>
+	<string name="tag_non_vuoto">Таg не должен быть пустым</string>
+	<string name="tipo_connessione">Тип связи</string>
+	<string name="tipo_protocolo">Тип протокола</string>
+	<string name="tutto">Всё</string>
 	<!-- U -->
-	<string name="upload">Upload</string>
 	<!-- V -->
 	<!-- W -->
 	<!-- X -->
