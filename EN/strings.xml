@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
 	<!-- A -->
 	<string name="acquisti_legati">All purchases are linked to your Google account</string>
 	<string name="aggiungi_account">Add an account</string>
@@ -47,7 +48,6 @@
 	<string name="nessun_account">No accounts</string>
 	<string name="nome_app">Turbo Client</string>
 	<string name="nome_utente">Username</string>
-	<string name="non_loggato">Not Logged</string>
 	<!-- O -->
 	<string name="obbligatorio">Required</string>
 	<string name="obbligatorio_non">Not required</string>
@@ -56,24 +56,20 @@
 	<string name="porta">Port</string>
 	<string name="porta_non_lettere">Port must contain only digits</string>
 	<string name="preferenze">Preferences</string>
-	<string name="propieta">Property</string>
 	<string name="pro_protocoli">More Protocols</string>
 	<string name="pro_noads">No Ads</string>
 	<!-- Q -->
 	<!-- R -->
 	<string name="riavva_per_tema">To change theme, restart the application</string>
-	<string name="riconneti">Try to reconnect !</string>
 	<string name="rinomina">Rename</string>
 	<string name="root">Root</string>
 	<!-- S -->
-	<string name="salva">Save</string>
 	<string name="seleziona">Select</string>
 	<string name="sicuro">Are you sure ?</string>
 	<string name="sottotitolo">by Vlad Mihalachi</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Tag must not be empty</string>
 	<string name="tipo_connessione">Connection Type</string>
-	<string name="tipo_proxy">Proxy Type</string>
 	<string name="tipo_protocolo">Protocol Type</string>
 	<string name="tutto">All</string>
 	<!-- U -->
