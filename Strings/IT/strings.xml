@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Italiano -->
+	<!-- A -->
+	<string name="acquisti_legati">Tutti gli acquisti sono legati al tuo account Google</string>
+	<string name="aggiungi_account">Aggiungi un account</string>
+	<string name="aggiungi_cartella">Aggiungi una cartella</string>
+	<string name="altezza_testo">Altezza Testo</string>
+	<!-- B -->
+	<string name="billing_non_supportato_titolo">Impossibile comprare</string>
+	<string name="billing_non_supportato_messaggio">Il servizio è offline, ma puoi usare l\'applicazione normalmente.</string>
+	<!-- C -->
+	<string name="cancella">Cancella</string>
+	<string name="cancellazione">Cancellazione dei file ..</string>
+	<string name="caricamento">Caricamento ..</string>
+	<string name="caricamento_veloce">Ci vorra un attimo ..</string>
+	<string name="cartella">Cartella</string>
+	<string name="chiave_privata">Chiave Privata</string>
+	<string name="click_lungo_per_aprire">Tieni premuta una cartella per aprirla!</string>
+	<string name="comprato">Comprato</string>
+	<string name="comprato_no">Non comprato</string>
+	<string name="compra_adesso">Compra</string>
+	<string name="condividi">Condividi</string>
+	<!-- D -->
+	<string name="devi_essere_pro">Diventa Pro !</string>
+	<string name="disconneti">Disconnetti</string>
+	<!-- E -->
+	<!-- F -->
+	<string name="fai_login">Per favore fai il login !</string>
+	<!-- G -->
+	<string name="guarda">Guarda</string>
+	<!-- H -->
+	<!-- I -->
+	<string name="indietro">Indietro</string>
+	<!-- J -->
+	<!-- K -->
+	<!-- L -->
+	<string name="log_in">Accesso ..</string>
+	<!-- M -->
+	<string name="massime_dimensione">Le dimensioni massime consentite sono di 75 kB</string>
+	<string name="metti_wifi_on">Per favore accendi il Wifi o i dati</string>
+	<string name="modifica">Modifica</string>
+	<string name="muovi">Muovi</string>
+	<!-- N -->
+	<string name="nessun_account">Nessun account presente</string>
+	<string name="nome_utente">Nome Utente</string>
+	<string name="non_loggato">Non loggato</string>
+	<!-- O -->
+	<string name="obbligatorio">Neccessari</string>
+	<string name="obbligatorio_non">Non Neccessari</string>
+	<!-- P -->
+	<string name="porta">Porta</string><string name="porta_non_lettere">La Porta deve contenere solo numeri</string>
+<string name="preferenze">Preferenze</string>
+	<string name="propieta">Propieta</string>
+	<string name="pro_protocoli">Più protocoli</string>
+	<string name="pro_noads">Nessuna pubblicità</string>
+	<!-- Q -->
+	<!-- R -->
+	<string name="riavva_per_tema">Per cambiare il tema, riavvia l\'applicazione</string>
+	<string name="rinomina">Rinomina</string>
+	<!-- S -->
+	<string name="salva">Salva</string>
+	<string name="seleziona">Seleziona</string>
+	<string name="sicuro">Sicuro ?</string>
+	<!-- T -->
+	<string name="tag_non_vuoto">Il Tag non deve essere vuoto</string>
+	<string name="tipo_connessione">Tipo di Connesione</string>
+	<string name="tipo_proxy">Tipo di Proxy</string>
+	<string name="tipo_protocolo">Tipo di Protocolo</string>
+	<string name="tutto">Tutto</string>
+	<!-- U -->
+	<!-- V -->
+	<!-- W -->
+	<!-- X -->
+	<!-- Y -->
+	<!-- Z -->
+
+</resources>
