@@ -7,6 +7,9 @@ It's free and complete.
 
 **See http://j.mp/turboclient for more information.**
 
+![Example Image][1]
+
+
 Developed By
 ============
 
@@ -15,3 +18,6 @@ Vlad Mihalachi - <themyvlad@gmail.com>
 * Twitter http://twitter.com/vmihalachi
 * Turbo Client Google Plus http://gplus.to/turboclient
 * Turbo Client Facebook https://www.facebook.com/turboclient
+
+
+ [1]: https://lh3.googleusercontent.com/-XmGZGdE767c/ULH-hixYU7I/AAAAAAAABQw/GUhojqrMoho/s722/5.png
