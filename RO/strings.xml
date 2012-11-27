@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
 	<!-- A -->
 	<string name="acquisti_legati">Toate cumparaturile sunt adaugate contului tau de Google.</string>
 	<string name="aggiungi_account">Adauga un account.</string>
@@ -21,7 +22,7 @@
 	<string name="compra_adesso">Cumparati acum</string>
 	<string name="condividi">Distribuie</string>
 	<!-- D -->
-	<string name="devi_essere_pro">Trebuie sa cumparati applicatia PRO.</string>
+	<string name="devi_essere_pro">Trebuie sa cumparati PRO.</string>
 	<string name="disconneti">Deconectat</string>
 	<string name="download">Descarcati</string>
 	<!-- E -->
@@ -45,7 +46,6 @@
 	<string name="muovi">Miscati</string>
 	<!-- N -->
 	<string name="nessun_account">Nu aveti nici un account</string>
-	<string name="nome_app">Turbo Client</string>
 	<string name="nome_utente">Nume Utilizator</string>
 	<string name="non_loggato">Nu sunteti connectati</string>
 	<!-- O -->
@@ -69,7 +69,6 @@
 	<string name="salva">Salvati</string>
 	<string name="seleziona">Selectionati</string>
 	<string name="sicuro">Sunteti sigur?</string>
-	<string name="sottotitolo">by Vlad Mihalachi</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Tag-ul nu poate fi gol.</string>
 	<string name="tipo_connessione">Tipul de conexiune</string>
@@ -77,11 +76,10 @@
 	<string name="tipo_protocolo">Tipul protocolului</string>
 	<string name="tutto">Tot</string>
 	<!-- U -->
-	<string name="upload">Upload</string>
 	<!-- V -->
 	<!-- W -->
 	<!-- X -->
 	<!-- Y -->
 	<!-- Z -->
 
-</resources>
+</resources
