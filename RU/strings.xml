@@ -45,8 +45,6 @@
 	<string name="nessun_account">Account не сушествует</string>
 	<string name="nome_utente">Имя пользавателя</string>
 	<!-- O -->
-	<string name="obbligatorio">Необходимые</string>
-	<string name="obbligatorio_non">Ненужные</string>
 	<!-- P -->
 	<string name="porta">Дверь</string>
 	<string name="porta_non_lettere">Дверь должна содержать только числа</string>
