@@ -11,7 +11,7 @@
 	<string name="billing_non_supportato_messaggio">The service is offline now, but you can use the app normaly.</string>
 	<!-- C -->
 	<string name="cancella">Delete</string>
-	<string name="cancellazione">Delecting files ..</string>
+	<string name="cancellazione">Deleting files ..</string>
 	<string name="caricamento">Loading ..</string>
 	<string name="caricamento_veloce">It will take a moment ..</string>
 	<string name="cartella">Folder</string>
@@ -51,6 +51,7 @@
 	<!-- O -->
 	<!-- P -->
 	<string name="password">Password</string>
+	<string name="password_criptata">Your password is encrypted in the database</string>
 	<string name="porta">Port</string>
 	<string name="porta_non_lettere">Port must contain only digits</string>
 	<string name="preferenze">Preferences</string>
