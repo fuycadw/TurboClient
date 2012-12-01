@@ -1,4 +1,4 @@
-Turbo Client | FTP FTPES SFTP
+Turbo Client | FTP FTPS SFTP
 ============
 
 Turbo Client is a FTP, FTPS, FTPES and SFTP client for Android.
