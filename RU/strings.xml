@@ -46,6 +46,7 @@
 	<string name="nome_utente">Имя пользавателя</string>
 	<!-- O -->
 	<!-- P -->
+	<string name="password_criptata">Your password is encrypted in the database</string>
 	<string name="porta">Дверь</string>
 	<string name="porta_non_lettere">Дверь должна содержать только числа</string>
 	<string name="preferenze">Настройки</string>
@@ -58,6 +59,7 @@
 	<!-- S -->
 	<string name="seleziona">Выбири</string>
 	<string name="sicuro">Вы уверены ?</string>
+	<string name="sto_caricando">I'm uploading your files, please wait ..</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Таg не должен быть пустым</string>
 	<string name="tipo_connessione">Тип связи</string>

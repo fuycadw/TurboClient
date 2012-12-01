@@ -46,6 +46,7 @@
 	<string name="nome_utente">Benutzername</string>
 	<!-- O -->
 	<!-- P -->
+	<string name="password_criptata">Your password is encrypted in the database</string>
 	<string name="porta">Hafen</string>
 	<string name="porta_non_lettere">Der Hafen soll nur zahlen enthalten</string>
 	<string name="preferenze">Einstellungen</string>
@@ -58,6 +59,7 @@
 	<!-- S -->
 	<string name="seleziona">Wählen</string>
 	<string name="sicuro">Sind sie sicher ?</string>
+	<string name="sto_caricando">I'm uploading your files, please wait ..</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Der tag muss nicht leer sein</string>
 	<string name="tipo_connessione">Art der verbindung</string>

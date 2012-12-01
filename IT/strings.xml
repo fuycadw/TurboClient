@@ -47,6 +47,7 @@
 	<string name="nome_utente">Nome Utente</string>
 	<!-- O -->
 	<!-- P -->
+	<string name="password_criptata">La tua password è criptata nel database</string>
 	<string name="porta">Porta</string>
 	<string name="porta_non_lettere">La porta deve contenere solo numeri</string>
 	<string name="preferenze">Preferenze</string>
@@ -59,6 +60,7 @@
 	<!-- S -->
 	<string name="seleziona">Seleziona</string>
 	<string name="sicuro">Sicuro ?</string>
+	 <string name="sto_caricando">Sto caricando i file, attendi per favore ..</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Il Tag non deve essere vuoto</string>
 	<string name="tipo_connessione">Tipo di Connessione</string>

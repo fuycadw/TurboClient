@@ -52,7 +52,8 @@
 	<string name="obbligatorio">Obligatoriu</string>
 	<string name="obbligatorio_non">Facultativ</string>
 	<!-- P -->
-	<string name="password">Parola</string>
+	<string name="password">Parola</string><string name="password_criptata">Parola este criptata in database.</string>
+
 	<string name="porta">Port</string>
 	<string name="porta_non_lettere">Port-ul trebuie sa contina numai numere.</string>
 	<string name="preferenze">Preferinte</string>
@@ -69,6 +70,7 @@
 	<string name="salva">Salvati</string>
 	<string name="seleziona">Selectionati</string>
 	<string name="sicuro">Sunteti sigur?</string>
+		<string name="sto_caricando">I'm uploading your files, please wait ..</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Tag-ul nu poate fi gol.</string>
 	<string name="tipo_connessione">Tipul de conexiune</string>

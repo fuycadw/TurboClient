@@ -66,6 +66,7 @@
 	<string name="seleziona">Select</string>
 	<string name="sicuro">Are you sure ?</string>
 	<string name="sottotitolo">by Vlad Mihalachi</string>
+	<string name="sto_caricando">I'm uploading your files, please wait ..</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Tag must not be empty</string>
 	<string name="tipo_connessione">Connection Type</string>
