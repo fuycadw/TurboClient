@@ -18,6 +18,8 @@ Vlad Mihalachi - <themyvlad@gmail.com>
 * Twitter http://twitter.com/vmihalachi
 * Turbo Client Google Plus http://gplus.to/turboclient
 * Turbo Client Facebook https://www.facebook.com/turboclient
+* Turbo Client Twitter https://www.twitter.com/turboclient
+* XDA thread http://forum.xda-developers.com/showthread.php?p=34879547
 
 
  [1]: https://lh3.googleusercontent.com/-XmGZGdE767c/ULH-hixYU7I/AAAAAAAABQw/GUhojqrMoho/s722/5.png
