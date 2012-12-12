@@ -2,34 +2,43 @@
 <resources>
 
 	<!-- A -->
+	<string name="ab_inbasso">Split the action bar</string>
+	<string name="account">Account</string>
 	<string name="acquisti_legati">Toate cumparaturile sunt adaugate contului tau de Google.</string>
 	<string name="aggiungi_account">Adauga un account.</string>
 	<string name="aggiungi_cartella">Creeaza un folder nou.</string>
 	<string name="altezza_testo">Marimea textului</string>
+	<string name="altro">Other</string>
+	<string name="attiva">Active</string>
 	<!-- B -->
 	<string name="billing_non_supportato_titolo">Facturarea cumparaturilor nu este valabila.</string>
 	<string name="billing_non_supportato_messaggio">Serviciul nu este valabil momentan,insa puteti folosi aplicatia in mod normal.</string>
 	<!-- C -->
 	<string name="cancella">Stergeti</string>
-	<string name="cancellazione">Stergerea elementelor in curs...</string>
+	<string name="cancellazione">Stergerea elementelor in curs..</string>
 	<string name="caricamento">Loading ..</string>
-	<string name="caricamento_veloce">Incarcarea contenutului va dura cateva secunde...</string>
-	<string name="cartella">Folder</string>
+	<string name="caricamento_veloce">Incarcarea contenutului va dura cateva secunde..</string>
+	<string name="cartella_download">Download folder</string>
 	<string name="chiave_privata">Cheie privata</string>
+	<string name="chiaro">Light</string>
 	<string name="click_lungo_per_aprire">Apasati indelung pe un folder pentru al deschide!</string>
-	<string name="comprato">Tranzactia sa terminat cu success.</string>
-	<string name="comprato_no">Tranzactia nu poate fi completata.</string>
 	<string name="compra_adesso">Cumparati acum</string>
 	<string name="condividi">Distribuie</string>
 	<!-- D -->
-	<string name="devi_essere_pro">Trebuie sa cumparati PRO.</string>
 	<string name="disconneti">Deconectat</string>
+	<string name="dona_unabirra">Donate a beer</string>
+	<string name="dona_duebirre">Donate 2 beers</string>
 	<string name="download">Descarcati</string>
+	<string name="download_completato">Download completed</string>
 	<!-- E -->
+	<string name="elementi">elemente</string>
 	<!-- F -->
 	<string name="fai_login">Va rugam sa face-ti login-ul!</string>
 	<!-- G -->
 	<string name="guarda">Vizualizare</string>
+	<string name="grazie">Tranzactia sa terminat cu success.</string>
+	<string name="griglia">Grid</string>
+	<string name="griglia_lista">Grid or list</string>
 	<!-- H -->
 	<string name="host">Host</string>
 	<!-- I -->
@@ -38,47 +47,52 @@
 	<!-- J -->
 	<!-- K -->
 	<!-- L -->
+	<string name="lista">List</string>
 	<string name="log_in">Conectarea este in curs ..</string>
 	<!-- M -->
-	<string name="massime_dimensione">Marimea maxima a fisierului este de 75 KO</string>
+	<string name="massime_dimensione">Marimea maxima a fisierului este de 75 Kb</string>
 	<string name="metti_wifi_on">Va rugam sa porniti connecsiunea WiFi</string>
 	<string name="modifica">Modificati</string>
 	<string name="muovi">Miscati</string>
 	<!-- N -->
 	<string name="nessun_account">Nu aveti nici un account</string>
-	<string name="nome_utente">Nume Utilizator</string>
-	<string name="non_loggato">Nu sunteti connectati</string>
+	<string name="nome_app">Turbo Client</string>
+	<string name="nome_utente">Nume utilizator</string>
 	<!-- O -->
-	<string name="obbligatorio">Obligatoriu</string>
-	<string name="obbligatorio_non">Facultativ</string>
 	<!-- P -->
-	<string name="password">Parola</string><string name="password_criptata">Parola este criptata in database.</string>
-
+	<string name="passiva">Passive</string>
+	<string name="password">Parola</string>
+	<string name="password_criptata">Parola este criptata in database.</string>
 	<string name="porta">Port</string>
 	<string name="porta_non_lettere">Port-ul trebuie sa contina numai numere.</string>
 	<string name="preferenze">Preferinte</string>
-	<string name="propieta">Propietati</string>
-	<string name="pro_protocoli">Mai multe tipuri de protocol.</string>
-	<string name="pro_noads">Nici un banner publicitar</string>
+	<string name="protocollo_principale">Main protocol</string>
 	<!-- Q -->
 	<!-- R -->
 	<string name="riavva_per_tema">Pentru a schimba aspectul trebuie sa restartati applicatia.</string>
-	<string name="riconneti">Incercati sa va conectati din nou.!</string>
 	<string name="rinomina">Re-denumiti</string>
+	<string name="riprova">Tranzactia nu poate fi completata.</string>
 	<string name="root">Root</string>
 	<!-- S -->
-	<string name="salva">Salvati</string>
+	<string name="scuro">Dark</string>
 	<string name="seleziona">Selectionati</string>
+	<string name="seleziona_account">Selectionati un account</string>
+	<string name="server">Server</string>
 	<string name="sicuro">Sunteti sigur?</string>
-		<string name="sto_caricando">I'm uploading your files, please wait ..</string>
+	<string name="sto_caricando">Incărcarea fișierelor ..</string>
+	<string name="sottotitolo">by Vlad Mihalachi</string>
+	<string name="sovrascrivi_file_locali">Overwrite local files</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Tag-ul nu poate fi gol.</string>
+	<string name="tema_app">App theme</string>
+	<string name="testo_acapo">Wrap text</string>
 	<string name="tipo_connessione">Tipul de conexiune</string>
-	<string name="tipo_proxy">Tipul de Proxy</string>
 	<string name="tipo_protocolo">Tipul protocolului</string>
-	<string name="tutto">Tot</string>
 	<!-- U -->
+	<string name="upload">Upload</string>
+	<string name="upload_completato">Upload completed</string>
 	<!-- V -->
+	<string name="vuota">Empty</string>
 	<!-- W -->
 	<!-- X -->
 	<!-- Y -->

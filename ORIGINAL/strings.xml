@@ -2,10 +2,14 @@
 <resources>
 
 	<!-- A -->
+	<string name="ab_inbasso">Split the action bar</string>
+	<string name="account">Account</string>
 	<string name="acquisti_legati">All purchases are linked to your Google account</string>
 	<string name="aggiungi_account">Add an account</string>
 	<string name="aggiungi_cartella">Add a folder</string>
 	<string name="altezza_testo">Text size</string>
+	<string name="altro">Other</string>
+	<string name="attiva">Active</string>
 	<!-- B -->
 	<string name="billing_non_supportato_titolo">Billing not supported</string>
 	<string name="billing_non_supportato_messaggio">The service is offline now, but you can use the app normaly.</string>
@@ -14,22 +18,27 @@
 	<string name="cancellazione">Deleting files ..</string>
 	<string name="caricamento">Loading ..</string>
 	<string name="caricamento_veloce">It will take a moment ..</string>
-	<string name="cartella">Folder</string>
+	<string name="cartella_download">Download folder</string>
 	<string name="chiave_privata">Private Key</string>
+	<string name="chiaro">Light</string>
 	<string name="click_lungo_per_aprire">Long click on a folder to open it !</string>
-	<string name="comprato">Purchashed</string>
-	<string name="comprato_no">Not purchashed</string>
 	<string name="compra_adesso">Pay Now</string>
 	<string name="condividi">Share</string>
 	<!-- D -->
-	<string name="devi_essere_pro">You must to be Pro</string>
 	<string name="disconneti">Disconnect</string>
+	<string name="dona_unabirra">Donate a beer</string>
+	<string name="dona_duebirre">Donate 2 beers</string>
 	<string name="download">Download</string>
+	<string name="download_completato">Download completed</string>
 	<!-- E -->
+	<string name="elementi">elements</string>
 	<!-- F -->
-	<string name="fai_login">Please Login !</string>
+	<string name="fai_login">You must login !</string>
 	<!-- G -->
 	<string name="guarda">View</string>
+	<string name="grazie">Thanks</string>
+	<string name="griglia">Grid</string>
+	<string name="griglia_lista">Grid or list</string>
 	<!-- H -->
 	<string name="host">Host</string>
 	<!-- I -->
@@ -38,6 +47,7 @@
 	<!-- J -->
 	<!-- K -->
 	<!-- L -->
+	<string name="lista">List</string>
 	<string name="log_in">Loggin in ..</string>
 	<!-- M -->
 	<string name="massime_dimensione">The file maximum size is 75 kB</string>
@@ -50,31 +60,39 @@
 	<string name="nome_utente">Username</string>
 	<!-- O -->
 	<!-- P -->
+	<string name="passiva">Passive</string>
 	<string name="password">Password</string>
 	<string name="password_criptata">Your password is encrypted in the database</string>
 	<string name="porta">Port</string>
 	<string name="porta_non_lettere">Port must contain only digits</string>
 	<string name="preferenze">Preferences</string>
-	<string name="pro_protocoli">More Protocols</string>
-	<string name="pro_noads">No Ads</string>
+	<string name="protocollo_principale">Main protocol</string>
 	<!-- Q -->
 	<!-- R -->
 	<string name="riavva_per_tema">To change theme, restart the application</string>
 	<string name="rinomina">Rename</string>
+	<string name="riprova">Try again</string>
 	<string name="root">Root</string>
 	<!-- S -->
+	<string name="scuro">Dark</string>
 	<string name="seleziona">Select</string>
+	<string name="seleziona_account">Select an account</string>
+	<string name="server">Server</string>
 	<string name="sicuro">Are you sure ?</string>
 	<string name="sottotitolo">by Vlad Mihalachi</string>
-	<string name="sto_caricando">I'm uploading your files, please wait ..</string>
+	<string name="sovrascrivi_file_locali">Overwrite local files</string>
+	<string name="sto_caricando">I\'m uploading your files, please wait ..</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Tag must not be empty</string>
+	<string name="tema_app">App theme</string>
+	<string name="testo_acapo">Wrap text</string>
 	<string name="tipo_connessione">Connection Type</string>
-	<string name="tipo_protocolo">Protocol Type</string>
-	<string name="tutto">All</string>
+	<string name="tipo_protocollo">Protocol Type</string>
 	<!-- U -->
 	<string name="upload">Upload</string>
+	<string name="upload_completato">Upload completed</string>
 	<!-- V -->
+	<string name="vuota">Empty</string>
 	<!-- W -->
 	<!-- X -->
 	<!-- Y -->
