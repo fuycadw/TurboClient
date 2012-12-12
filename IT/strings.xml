@@ -16,9 +16,9 @@
 	<string name="billing_non_supportato_messaggio">Il servizio è offline, ma puoi usare l\'applicazione normalmente.</string>
 	<!-- C -->
 	<string name="cancella">Cancella</string>
-	<string name="cancellazione">Cancellazione dei file ..</string>
-	<string name="caricamento">Caricamento ..</string>
-	<string name="caricamento_veloce">Ci vorra un attimo ..</string>
+	<string name="cancellazione">Cancellazione dei file&#8230;</string>
+	<string name="caricamento">Caricamento&#8230;</string>
+	<string name="caricamento_veloce">Ci vorra un attimo&#8230;</string>
 	<string name="cartella_download">Cartella per i download</string>
 	<string name="chiave_privata">Chiave Privata</string>
 	<string name="chiaro">Chiaro</string>
