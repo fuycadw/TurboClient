@@ -16,9 +16,9 @@ De service is nu offline, maar je kunt de app gewoon gebruiken.
 </string>
 <!--  C  -->
 <string name="cancella">Verwijderen</string>
-<string name="cancellazione">Bestanden verwijderen ..</string>
-<string name="caricamento">Laden ..</string>
-<string name="caricamento_veloce">Het duurt eventjes ..</string>
+<string name="cancellazione">Bestanden verwijderen&#8230;</string>
+<string name="caricamento">Laden&#8230;</string>
+<string name="caricamento_veloce">Het duurt eventjes&#8230;</string>
 <string name="cartella">Downloadmap</string>
 <string name="chiave_privata">Privesleutel</string>
 <string name="chiaro">Licht</string>
@@ -49,7 +49,7 @@ De service is nu offline, maar je kunt de app gewoon gebruiken.
 <!--  K  -->
 <!--  L  -->
 <string name="lista">Lijst</string>
-<string name="log_in">Inloggen ..</string>
+<string name="log_in">Inloggen&#8230;</string>
 <!--  M  -->
 <string name="massime_dimensione">De maximale bestandsgrootte is 75 kB</string>
 <string name="metti_wifi_on">Schakel Wifi in aub</string>
