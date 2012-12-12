@@ -9,6 +9,12 @@ It's free and complete.
 
 ![Example Image][1]
 
+Translated By
+============
+
+* RO: Adrian Dohot Mihai https://github.com/xavier15
+* NL: labsin https://github.com/labsin
+* DE: jackmu95 https://github.com/jackmu95
 
 Developed By
 ============
