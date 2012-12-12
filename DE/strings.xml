@@ -2,97 +2,97 @@
 <resources>
 
 	<!-- A -->
-	<string name="ab_inbasso">Split the action bar</string>
-	<string name="account">Account</string>
-	<string name="acquisti_legati">All purchases are linked to your Google account</string>
-	<string name="aggiungi_account">Add an account</string>
-	<string name="aggiungi_cartella">Add a folder</string>
-	<string name="altezza_testo">Text size</string>
-	<string name="altro">Other</string>
-	<string name="attiva">Active</string>
+	<string name="ab_inbasso">Action Bar aufteilen</string>
+	<string name="account">Benutzerkonto</string>
+	<string name="acquisti_legati">Alle Einkäufe sind mit dem Google Benutzerkonto verknüpft</string>
+	<string name="aggiungi_account">Benutzerkonto hinzufügen</string>
+	<string name="aggiungi_cartella">Ordner hinzufügen</string>
+	<string name="altezza_testo">Textgröße</string>
+	<string name="altro">Andere</string>
+	<string name="attiva">Aktiv</string>
 	<!-- B -->
-	<string name="billing_non_supportato_titolo">Billing not supported</string>
-	<string name="billing_non_supportato_messaggio">The service is offline now, but you can use the app normaly.</string>
+	<string name="billing_non_supportato_titolo">Bezahlung nicht unterstützt</string>
+	<string name="billing_non_supportato_messaggio">Der Dienst ist offline. Die App kann aber normal genutzt werden.</string>
 	<!-- C -->
-	<string name="cancella">Delete</string>
-	<string name="cancellazione">Deleting files ..</string>
-	<string name="caricamento">Loading ..</string>
-	<string name="caricamento_veloce">It will take a moment ..</string>
-	<string name="cartella_download">Download folder</string>
-	<string name="chiave_privata">Private Key</string>
-	<string name="chiaro">Light</string>
-	<string name="click_lungo_per_aprire">Long click on a folder to open it !</string>
-	<string name="compra_adesso">Pay Now</string>
-	<string name="condividi">Share</string>
+	<string name="cancella">Löschen</string>
+	<string name="cancellazione">Dateien löschen ..</string>
+	<string name="caricamento">Laden ..</string>
+	<string name="caricamento_veloce">Bitte warten ..</string>
+	<string name="cartella_download">Download Ordner</string>
+	<string name="chiave_privata">Privater Schlüssel</string>
+	<string name="chiaro">Hell</string>
+	<string name="click_lungo_per_aprire">Gedrückt halten um den Ordner zu öffnen!</string>
+	<string name="compra_adesso">Jetzt bezahlen</string>
+	<string name="condividi">Teilen</string>
 	<!-- D -->
-	<string name="disconneti">Disconnect</string>
-	<string name="dona_unabirra">Donate a beer</string>
-	<string name="dona_duebirre">Donate 2 beers</string>
-	<string name="download">Download</string>
-	<string name="download_completato">Download completed</string>
+	<string name="disconneti">Trennen</string>
+	<string name="dona_unabirra">Spende ein Bier</string>
+	<string name="dona_duebirre">Spende 2 Biere</string>
+	<string name="download">Herunterladen</string>
+	<string name="download_completato">Herunterladen abgeschlossen</string>
 	<!-- E -->
-	<string name="elementi">elements</string>
+	<string name="elementi">Elemente</string>
 	<!-- F -->
-	<string name="fai_login">You must login !</string>
+	<string name="fai_login">Bitte einloggen!</string>
 	<!-- G -->
-	<string name="guarda">View</string>
-	<string name="grazie">Thanks</string>
-	<string name="griglia">Grid</string>
-	<string name="griglia_lista">Grid or list</string>
+	<string name="guarda">Anzeigen</string>
+	<string name="grazie">Danke</string>
+	<string name="griglia">Gitter</string>
+	<string name="griglia_lista">Gitter oder Liste</string>
 	<!-- H -->
 	<string name="host">Host</string>
 	<!-- I -->
-	<string name="indietro">Back</string>
+	<string name="indietro">Zurück</string>
 	<string name="info">Info</string>
 	<!-- J -->
 	<!-- K -->
 	<!-- L -->
-	<string name="lista">List</string>
-	<string name="log_in">Loggin in ..</string>
+	<string name="lista">Liste</string>
+	<string name="log_in">Einloggen ..</string>
 	<!-- M -->
-	<string name="massime_dimensione">The file maximum size is 75 kB</string>
-	<string name="metti_wifi_on">Please turn Wifi on</string>
-	<string name="modifica">Modify</string>
-	<string name="muovi">Move</string>
+	<string name="massime_dimensione">Die Maximale Dateigröße beträgt 75 kB</string>
+	<string name="metti_wifi_on">Bitte schalte Wifi an</string>
+	<string name="modifica">Bearbeiten</string>
+	<string name="muovi">Verschieben</string>
 	<!-- N -->
-	<string name="nessun_account">No accounts</string>
+	<string name="nessun_account">Keine Benutzerkonten</string>
 	<string name="nome_app">Turbo Client</string>
-	<string name="nome_utente">Username</string>
+	<string name="nome_utente">Benutzername</string>
 	<!-- O -->
 	<!-- P -->
-	<string name="passiva">Passive</string>
-	<string name="password">Password</string>
-	<string name="password_criptata">Your password is encrypted in the database</string>
+	<string name="passiva">Passiv</string>
+	<string name="password">Kennwort</string>
+	<string name="password_criptata">Das Passwort wird in der Datenbank entschlüsselt</string>
 	<string name="porta">Port</string>
-	<string name="porta_non_lettere">Port must contain only digits</string>
-	<string name="preferenze">Preferences</string>
-	<string name="protocollo_principale">Main protocol</string>
+	<string name="porta_non_lettere">Der Port darf nur Zahlen enthalten</string>
+	<string name="preferenze">Einstellungen</string>
+	<string name="protocollo_principale">Hauptprotokoll</string>
 	<!-- Q -->
 	<!-- R -->
-	<string name="riavva_per_tema">To change theme, restart the application</string>
-	<string name="rinomina">Rename</string>
-	<string name="riprova">Try again</string>
+	<string name="riavva_per_tema">Starte die App neu, um das Theme anzuwenden</string>
+	<string name="rinomina">Umbenennen</string>
+	<string name="riprova">Erneut versuchen</string>
 	<string name="root">Root</string>
 	<!-- S -->
-	<string name="scuro">Dark</string>
-	<string name="seleziona">Select</string>
-	<string name="seleziona_account">Select an account</string>
+	<string name="scuro">Dunkel</string>
+	<string name="seleziona">Auswählen</string>
+	<string name="seleziona_account">Benutzerkonto auswählen</string>
 	<string name="server">Server</string>
-	<string name="sicuro">Are you sure ?</string>
-	<string name="sottotitolo">by Vlad Mihalachi</string>
-	<string name="sovrascrivi_file_locali">Overwrite local files</string>
-	<string name="sto_caricando">I\'m uploading your files, please wait ..</string>
+	<string name="sicuro">Fortfahren?</string>
+	<string name="sottotitolo">von Vlad Mihalachi</string>
+	<string name="sovrascrivi_file_locali">Dateien werden überschrieben</string>
+	<string name="sto_caricando">Dateien werden hochgeladen ..</string>
 	<!-- T -->
-	<string name="tag_non_vuoto">Tag must not be empty</string>
-	<string name="tema_app">App theme</string>
-	<string name="testo_acapo">Wrap text</string>
-	<string name="tipo_connessione">Connection Type</string>
-	<string name="tipo_protocollo">Protocol Type</string>
+	<string name="tag_non_vuoto">Tag darf nicht leer sein</string>
+	<string name="tema_app">Theme</string>
+	<string name="testo_acapo">Zeilenumbruch</string>
+	<string name="tipo_connessione">Verbindungstyp</string>
+	<string name="tipo_protocollo">Protokolltyp</string>
 	<!-- U -->
-	<string name="upload">Upload</string>
-	<string name="upload_completato">Upload completed</string>
+	<string name="upload">Hochladen</string>
+	<string name="upload_completato">Hochladen abgeschlossen</string>
 	<!-- V -->
-	<string name="vuota">Empty</string>
+	<string name="vuota">Leer</string>
 	<!-- W -->
 	<!-- X -->
 	<!-- Y -->
