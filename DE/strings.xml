@@ -15,9 +15,9 @@
 	<string name="billing_non_supportato_messaggio">Der Dienst ist offline. Die App kann aber normal genutzt werden.</string>
 	<!-- C -->
 	<string name="cancella">Löschen</string>
-	<string name="cancellazione">Dateien löschen ..</string>
+	<string name="cancellazione">Dateien löschen&#8230;</string>
 	<string name="caricamento">Laden ..</string>
-	<string name="caricamento_veloce">Bitte warten ..</string>
+	<string name="caricamento_veloce">Bitte warten&#8230;</string>
 	<string name="cartella_download">Download Ordner</string>
 	<string name="chiave_privata">Privater Schlüssel</string>
 	<string name="chiaro">Hell</string>
@@ -48,7 +48,7 @@
 	<!-- K -->
 	<!-- L -->
 	<string name="lista">Liste</string>
-	<string name="log_in">Einloggen ..</string>
+	<string name="log_in">Einloggen&#8230;</string>
 	<!-- M -->
 	<string name="massime_dimensione">Die Maximale Dateigröße beträgt 75 kB</string>
 	<string name="metti_wifi_on">Bitte Wifi einschalten</string>
