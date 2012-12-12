@@ -15,13 +15,13 @@
 	<string name="billing_non_supportato_messaggio">The service is offline now, but you can use the app normaly.</string>
 	<!-- C -->
 	<string name="cancella">Delete</string>
-	<string name="cancellazione">Deleting files ..</string>
-	<string name="caricamento">Loading ..</string>
-	<string name="caricamento_veloce">It will take a moment ..</string>
+	<string name="cancellazione">Deleting files&#8230;</string>
+	<string name="caricamento">Loading&#8230;</string>
+	<string name="caricamento_veloce">It will take a moment&#8230;</string>
 	<string name="cartella_download">Download folder</string>
 	<string name="chiave_privata">Private Key</string>
 	<string name="chiaro">Light</string>
-	<string name="click_lungo_per_aprire">Long click on a folder to open it !</string>
+	<string name="click_lungo_per_aprire">Long click on a folder to open it!</string>
 	<string name="compra_adesso">Pay Now</string>
 	<string name="condividi">Share</string>
 	<!-- D -->
@@ -48,10 +48,10 @@
 	<!-- K -->
 	<!-- L -->
 	<string name="lista">List</string>
-	<string name="log_in">Loggin in ..</string>
+	<string name="log_in">Loggin in&#8230;</string>
 	<!-- M -->
-	<string name="massime_dimensione">The file maximum size is 75 kB</string>
-	<string name="metti_wifi_on">Please turn Wifi on</string>
+	<string name="massime_dimensione">The maximum file size is 75 kB</string>	
+        <string name="metti_wifi_on">Please turn on WiFi</string>
 	<string name="modifica">Modify</string>
 	<string name="muovi">Move</string>
 	<!-- N -->
@@ -62,14 +62,14 @@
 	<!-- P -->
 	<string name="passiva">Passive</string>
 	<string name="password">Password</string>
-	<string name="password_criptata">Your password is encrypted in the database</string>
+	<string name="password_criptata">Your password is saved encrypted in the database</string>
 	<string name="porta">Port</string>
-	<string name="porta_non_lettere">Port must contain only digits</string>
+	<string name="porta_non_lettere">Port can contain only digits</string>
 	<string name="preferenze">Preferences</string>
 	<string name="protocollo_principale">Main protocol</string>
 	<!-- Q -->
 	<!-- R -->
-	<string name="riavva_per_tema">To change theme, restart the application</string>
+	<string name="riavva_per_tema">To change the theme, restart the application</string>
 	<string name="rinomina">Rename</string>
 	<string name="riprova">Try again</string>
 	<string name="root">Root</string>
@@ -78,10 +78,10 @@
 	<string name="seleziona">Select</string>
 	<string name="seleziona_account">Select an account</string>
 	<string name="server">Server</string>
-	<string name="sicuro">Are you sure ?</string>
+	<string name="sicuro">Are you sure?</string>
 	<string name="sottotitolo">by Vlad Mihalachi</string>
 	<string name="sovrascrivi_file_locali">Overwrite local files</string>
-	<string name="sto_caricando">I\'m uploading your files, please wait ..</string>
+	<string name="sto_caricando">Uploading your files, please wait&#8230;</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Tag must not be empty</string>
 	<string name="tema_app">App theme</string>
