@@ -83,8 +83,7 @@ De service is nu offline, maar je kunt de app gewoon gebruiken.
 <string name="sottotitolo">door Vlad Mihalachi</string>
 <string name="sovrascrivi_file_locali">Lokale bestanden overschrijven</string>
 <string name="sto_caricando">
-Ik ben je bestanden aan het uploaden, een ogenblikje ..
-</string>
+Ik ben je bestanden aan het uploaden, een ogenblikje&#8230;</string>
 <!--  T  -->
 <string name="tag_non_vuoto">Tag mag niet leeg zijn</string>
 <string name="tema_app">Applicatiethema</string>
