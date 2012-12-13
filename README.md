@@ -13,7 +13,7 @@ Translated By
 ============
 
 * RO: Adrian Dohot Mihai https://github.com/xavier15
-* NL: labsin https://github.com/labsin
+* NL: duncank https://github.com/Duncank
 * DE: jackmu95 https://github.com/jackmu95
 * AL: eriontreska https://github.com/eriontreska
 
