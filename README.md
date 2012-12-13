@@ -18,6 +18,7 @@ Translated By
 * AL: eriontreska https://github.com/eriontreska
 * PL: dedik https://github.com/dedik
 * DK: Kevin Kamper Meejach Petersen
+* ES: pblgomez https://github.com/pblgomez
 
 Developed By
 ============
