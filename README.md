@@ -16,6 +16,8 @@ Translated By
 * NL: duncank https://github.com/Duncank
 * DE: jackmu95 https://github.com/jackmu95
 * AL: eriontreska https://github.com/eriontreska
+* PL: dedik https://github.com/dedik
+* DK: Kevin Kamper Meejach Petersen
 
 Developed By
 ============
