@@ -16,7 +16,7 @@
 	<!-- C -->
 	<string name="cancella">Löschen</string>
 	<string name="cancellazione">Dateien löschen&#8230;</string>
-	<string name="caricamento">Laden ..</string>
+	<string name="caricamento">Laden&#8230;</string>
 	<string name="caricamento_veloce">Bitte warten&#8230;</string>
 	<string name="cartella_download">Download Ordner</string>
 	<string name="chiave_privata">Privater Schlüssel</string>
@@ -56,7 +56,6 @@
 	<string name="muovi">Verschieben</string>
 	<!-- N -->
 	<string name="nessun_account">Keine Benutzerkonten</string>
-	<string name="nome_app">Turbo Client</string>
 	<string name="nome_utente">Benutzername</string>
 	<!-- O -->
 	<!-- P -->
