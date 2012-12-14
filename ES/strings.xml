@@ -85,7 +85,7 @@
 	<!-- T -->
 	<string name="tag_non_vuoto">La etiqueta no puede estar vacía</string>
 	<string name="tema_app">Tema de la aplicación</string>
-	<string name="testo_acapo">Ajustar texto</sttring>
+	<string name="testo_acapo">Ajustar texto</string>
 	<string name="tipo_connessione">Tipo de conexión</string>
 	<string name="tipo_protocollo">Tipo de protocolo</string>
 	<!-- U -->
