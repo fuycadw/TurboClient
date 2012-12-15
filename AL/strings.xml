@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	
+	<!--
+	 NOT TRANSLATED
+	<string name="codifica">Encoding</string>
+	-->
+
 
 	<!-- A -->
 	<string name="ab_inbasso">Ndaj kutine e veprimeve</string>
@@ -50,12 +56,13 @@
 	<string name="lista">Liste</string>
 	<string name="log_in">Duke u loguar&#8230;</string>
 	<!-- M -->
-	<string name="massime_dimensione">Madhesia maximale e skedarit eshte 75 KB</string>	
-        <string name="metti_wifi_on">Ju lutem aktivizoni WiFi</string>
+	<string name="massime_dimensione">Madhesia maximale e skedarit eshte 75 kB</string>
+	<string name="metti_wifi_on">Ju lutem aktivizoni WiFi</string>
 	<string name="modifica">Modifiko</string>
 	<string name="muovi">Zhvendos</string>
 	<!-- N -->
 	<string name="nessun_account">Asnje llogari</string>
+	<string name="nome_app">Turbo Client</string>
 	<string name="nome_utente">Perdoruesi</string>
 	<!-- O -->
 	<!-- P -->
@@ -78,7 +85,6 @@
 	<string name="seleziona_account">Zgjidhni nje llogari</string>
 	<string name="server">Serveri</string>
 	<string name="sicuro">Jeni te Sigurt?</string>
-	<string name="sottotitolo">nga Vlad Mihalachi</string>
 	<string name="sovrascrivi_file_locali">Mbivendos dosjet lokale</string>
 	<string name="sto_caricando">Duke ngarkuar skedaret tuaj, ju lutem prisni&#8230;</string>
 	<!-- T -->
