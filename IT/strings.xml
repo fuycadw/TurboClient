@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+	<!--
+	 NOT TRANSLATED
+	<string name="codifica">Encoding</string>
+	-->
+
+
 	<!-- Italiano -->
 	<!-- A -->
 	<string name="ab_inbasso">Opzioni in basso</string>
@@ -81,7 +87,6 @@
 	<string name="server">Server</string>
 	<string name="sicuro">Sicuro ?</string>
 	<string name="sto_caricando">Sto caricando i file, attendi per favore ..</string>
-	<string name="sottotitolo">by Vlad Mihalachi</string>
 	<string name="sovrascrivi_file_locali">Sovrascrivi i file locali</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Il Tag non deve essere vuoto</string>

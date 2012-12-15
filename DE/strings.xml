@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+	<!--
+	 NOT TRANSLATED
+	<string name="codifica">Encoding</string>
+	-->
+
+
 	<!-- A -->
 	<string name="ab_inbasso">Action Bar aufteilen</string>
 	<string name="account">Benutzerkonto</string>
@@ -78,7 +84,6 @@
 	<string name="seleziona_account">Benutzerkonto auswählen</string>
 	<string name="server">Server</string>
 	<string name="sicuro">Fortfahren?</string>
-	<string name="sottotitolo">von Vlad Mihalachi</string>
 	<string name="sovrascrivi_file_locali">Lokale Dateien überschreiben</string>
 	<string name="sto_caricando">Dateien werden hochgeladen ..</string>
 	<!-- T -->

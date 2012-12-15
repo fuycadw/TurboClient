@@ -1,102 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--  A  -->
-<string name="ab_inbasso">Split de actionbalk</string>
-<string name="account">Account</string>
-<string name="acquisti_legati">Alle aankopen zijn gelinkt aan je Google account</string>
-<string name="aggiungi_account">Account toevoegen</string>
-<string name="aggiungi_cartella">Map toevoegen</string>
-<string name="altezza_testo">Tekstgrootte</string>
-<string name="altro">Overig</string>
-<string name="attiva">Actief</string>
-<!--  B  -->
-<string name="billing_non_supportato_titolo">Facturatie niet ondersteund</string>
-<string name="billing_non_supportato_messaggio">
-De service is nu offline, maar je kunt de app gewoon gebruiken.
-</string>
-<!--  C  -->
-<string name="cancella">Verwijderen</string>
-<string name="cancellazione">Bestanden verwijderen&#8230;</string>
-<string name="caricamento">Laden&#8230;</string>
-<string name="caricamento_veloce">Het duurt eventjes&#8230;</string>
-<string name="cartella">Downloadmap</string>
-<string name="chiave_privata">Privesleutel</string>
-<string name="chiaro">Licht</string>
-<string name="click_lungo_per_aprire">Klik lang op een map om hem te openen!</string>
-<string name="compra_adesso">Betaal nu</string>
-<string name="condividi">Delen</string>
-<!--  D  -->
-<string name="disconneti">Loskoppelen</string>
-<string name="dona_unabirra">Doneer een biertje</string>
-<string name="dona_duebirre">Doneer 2 biertjes</string>
-<string name="download">Download</string>
-<string name="download_completato">Download voltooid</string>
-<!--  E  -->
-<string name="elementi">elementen</string>
-<!--  F  -->
-<string name="fai_login">Je moet inloggen!</string>
-<!--  G  -->
-<string name="guarda">Bekijken</string>
-<string name="grazie">Bedankt</string>
-<string name="griglia">Tegels</string>
-<string name="griglia_lista">Tegels of lijst</string>
-<!--  H  -->
-<string name="host">Host</string>
-<!--  I  -->
-<string name="indietro">Terug</string>
-<string name="info">Info</string>
-<!--  J  -->
-<!--  K  -->
-<!--  L  -->
-<string name="lista">Lijst</string>
-<string name="log_in">Inloggen&#8230;</string>
-<!--  M  -->
-<string name="massime_dimensione">De maximale bestandsgrootte is 75 kB</string>
-<string name="metti_wifi_on">Schakel Wifi in aub</string>
-<string name="modifica">Aanpassen</string>
-<string name="muovi">Verplaatsen</string>
-<!--  N  -->
-<string name="nessun_account">Geen accounts</string>
-<string name="nome_app">Turboclient</string>
-<string name="nome_utente">Gebruikersnaam</string>
-<!--  O  -->
-<!--  P  -->
-<string name="passiva">Passief</string>
-<string name="password">Wachtwoord</string>
-<string name="password_criptata">Je wachtwoord staat versleuteld in de database</string>
-<string name="porta">Poort</string>
-<string name="porta_non_lettere">Het poortnummer mag alleen getallen bevatten</string>
-<string name="preferenze">Voorkeuren</string>
-<string name="protocollo_principale">Hoofdprotocol</string>
-<!--  Q  -->
-<!--  R  -->
-<string name="riavva_per_tema">Herstart de applicatie om het thema aan te passen</string>
-<string name="rinomina">Hernoemen</string>
-<string name="riprova">Opnieuw proberen</string>
-<string name="root">Root</string>
-<!--  S  -->
-<string name="scuro">Donker</string>
-<string name="seleziona">Selecteren</string>
-<string name="seleziona_account">Selecteer een account</string>
-<string name="server">Server</string>
-<string name="sicuro">Weet je dit zeker?</string>
-<string name="sottotitolo">door Vlad Mihalachi</string>
-<string name="sovrascrivi_file_locali">Lokale bestanden overschrijven</string>
-<string name="sto_caricando">
-Ik ben je bestanden aan het uploaden, een ogenblikje&#8230;</string>
-<!--  T  -->
-<string name="tag_non_vuoto">Tag mag niet leeg zijn</string>
-<string name="tema_app">Applicatiethema</string>
-<string name="testo_acapo">Automatische terugloop</string>
-<string name="tipo_connessione">Verbindingstype</string>
-<string name="tipo_protocollo">Protocoltype</string>
-<!--  U  -->
-<string name="upload">Upload</string>
-<string name="upload_completato">Upload voltooid</string>
-<!--  V  -->
-<string name="vuota">Leeg</string>
-<!--  W  -->
-<!--  X  -->
-<!--  Y  -->
-<!--  Z  -->
+
+	<!--
+	 NOT TRANSLATED
+	<string name="codifica">Encoding</string>
+	-->
+
+
+	<!-- A -->
+	<string name="ab_inbasso">Split de actionbalk</string>
+	<string name="account">Account</string>
+	<string name="acquisti_legati">Alle aankopen zijn gelinkt aan je Google account</string>
+	<string name="aggiungi_account">Account toevoegen</string>
+	<string name="aggiungi_cartella">Map toevoegen</string>
+	<string name="altezza_testo">Tekstgrootte</string>
+	<string name="altro">Overig</string>
+	<string name="attiva">Actief</string>
+	<!-- B -->
+	<string name="billing_non_supportato_titolo">Facturatie niet ondersteund</string>
+	<string name="billing_non_supportato_messaggio">De service is nu offline, maar je kunt de app gewoon gebruiken.</string>
+	<!-- C -->
+	<string name="cancella">Verwijderen</string>
+	<string name="cancellazione">Bestanden verwijderen&#8230;</string>
+	<string name="caricamento">Laden&#8230;</string>
+	<string name="caricamento_veloce">Het duurt eventjes&#8230;</string>
+	<string name="cartella">Downloadmap</string>
+	<string name="chiave_privata">Privesleutel</string>
+	<string name="chiaro">Licht</string>
+	<string name="click_lungo_per_aprire">Klik lang op een map om hem te openen!</string>
+	<string name="compra_adesso">Betaal nu</string>
+	<string name="condividi">Delen</string>
+	<!-- D -->
+	<string name="disconneti">Loskoppelen</string>
+	<string name="dona_unabirra">Doneer een biertje</string>
+	<string name="dona_duebirre">Doneer 2 biertjes</string>
+	<string name="download">Download</string>
+	<string name="download_completato">Download voltooid</string>
+	<!-- E -->
+	<string name="elementi">elementen</string>
+	<!-- F -->
+	<string name="fai_login">Je moet inloggen!</string>
+	<!-- G -->
+	<string name="guarda">Bekijken</string>
+	<string name="grazie">Bedankt</string>
+	<string name="griglia">Tegels</string>
+	<string name="griglia_lista">Tegels of lijst</string>
+	<!-- H -->
+	<string name="host">Host</string>
+	<!-- I -->
+	<string name="indietro">Terug</string>
+	<string name="info">Info</string>
+	<!-- J -->
+	<!-- K -->
+	<!-- L -->
+	<string name="lista">Lijst</string>
+	<string name="log_in">Inloggen&#8230;</string>
+	<!-- M -->
+	<string name="massime_dimensione">De maximale bestandsgrootte is 75 kB</string>
+	<string name="metti_wifi_on">Schakel Wifi in aub</string>
+	<string name="modifica">Aanpassen</string>
+	<string name="muovi">Verplaatsen</string>
+	<!-- N -->
+	<string name="nessun_account">Geen accounts</string>
+	<string name="nome_app">Turboclient</string>
+	<string name="nome_utente">Gebruikersnaam</string>
+	<!-- O -->
+	<!-- P -->
+	<string name="passiva">Passief</string>
+	<string name="password">Wachtwoord</string>
+	<string name="password_criptata">Je wachtwoord staat versleuteld in de database</string>
+	<string name="porta">Poort</string>
+	<string name="porta_non_lettere">Het poortnummer mag alleen getallen bevatten</string>
+	<string name="preferenze">Voorkeuren</string>
+	<string name="protocollo_principale">Hoofdprotocol</string>
+	<!-- Q -->
+	<!-- R -->
+	<string name="riavva_per_tema">Herstart de applicatie om het thema aan te passen</string>
+	<string name="rinomina">Hernoemen</string>
+	<string name="riprova">Opnieuw proberen</string>
+	<string name="root">Root</string>
+	<!-- S -->
+	<string name="scuro">Donker</string>
+	<string name="seleziona">Selecteren</string>
+	<string name="seleziona_account">Selecteer een account</string>
+	<string name="server">Server</string>
+	<string name="sicuro">Weet je dit zeker?</string>
+	<string name="sovrascrivi_file_locali">Lokale bestanden overschrijven</string>
+	<string name="sto_caricando">Ik ben je bestanden aan het uploaden, een ogenblikje&#8230;</string>
+	<!-- T -->
+	<string name="tag_non_vuoto">Tag mag niet leeg zijn</string>
+	<string name="tema_app">Applicatiethema</string>
+	<string name="testo_acapo">Automatische terugloop</string>
+	<string name="tipo_connessione">Verbindingstype</string>
+	<string name="tipo_protocollo">Protocoltype</string>
+	<!-- U -->
+	<string name="upload">Upload</string>
+	<string name="upload_completato">Upload voltooid</string>
+	<!-- V -->
+	<string name="vuota">Leeg</string>
+	<!-- W -->
+	<!-- X -->
+	<!-- Y -->
+	<!-- Z -->
+
 </resources>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+	<!--
+	 NOT TRANSLATED
+	<string name="codifica">Encoding</string>
+	-->
+
+
 	<!-- A -->
 	<string name="ab_inbasso">Podział paska akcji</string>
 	<string name="account">Konto</string>
@@ -50,8 +56,8 @@
 	<string name="lista">Lista</string>
 	<string name="log_in">Loguje się&#8230;</string>
 	<!-- M -->
-	<string name="massime_dimensione">Maksymalny rozmiar pliku to 75 kB</string>	
-        <string name="metti_wifi_on">Włącz WiFi</string>
+	<string name="massime_dimensione">Maksymalny rozmiar pliku to 75 kB</string>
+	<string name="metti_wifi_on">Włącz WiFi</string>
 	<string name="modifica">Modyfikuj</string>
 	<string name="muovi">Przenieś</string>
 	<!-- N -->
@@ -79,7 +85,6 @@
 	<string name="seleziona_account">Wybierz konto</string>
 	<string name="server">Serwer</string>
 	<string name="sicuro">Jesteś pewny?</string>
-	<string name="sottotitolo">by Vlad Mihalachi</string>
 	<string name="sovrascrivi_file_locali">Nadpisuj lokalne pliki</string>
 	<string name="sto_caricando">Przesyłam pliki, proszę czekać&#8230;</string>
 	<!-- T -->

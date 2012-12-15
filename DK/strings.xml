@@ -1,35 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+	<!--
+	 NOT TRANSLATED
+	<string name="codifica">Encoding</string>
+	-->
+
+
 	<!-- A -->
 	<string name="ab_inbasso">Split the action bar</string>
 	<string name="account">Bruger</string>
-	<string name="acquisti_legati">Alt hvad du har købt er linket i din google acount</string>
+	<string name="acquisti_legati">Alt hvad du har kÃ¸bt er linket i din google acount</string>
 	<string name="aggiungi_account">Add an account</string>
-	<string name="aggiungi_cartella">Tilføj en mappe</string>
-	<string name="altezza_testo">Text størelse</string>
+	<string name="aggiungi_cartella">TilfÃ¸j en mappe</string>
+	<string name="altezza_testo">Text stÃ¸relse</string>
 	<string name="altro">Andre</string>
 	<string name="attiva">Aktiv</string>
 	<!-- B -->
-	<string name="billing_non_supportato_titolo">Billing er ikke understÃ¸ttest</string>
+	<string name="billing_non_supportato_titolo">Billing er ikke understÃƒÂ¸ttest</string>
 	<string name="billing_non_supportato_messaggio">Servicen er offline nu, men du kan bruge applikation normalt.</string>
 	<!-- C -->
 	<string name="cancella">Slet</string>
 	<string name="cancellazione">Sletter filerne&#8230;</string>
 	<string name="caricamento">Loader&#8230;</string>
-	<string name="caricamento_veloce">Det tager et øjeblik&#8230;</string>
+	<string name="caricamento_veloce">Det tager et Ã¸jeblik&#8230;</string>
 	<string name="cartella_download">Download mappen</string>
-	<string name="chiave_privata">Privat nøgle</string>
+	<string name="chiave_privata">Privat nÃ¸gle</string>
 	<string name="chiaro">Lys</string>
-	<string name="click_lungo_per_aprire">Hold nede i et stykke tid for at åbende mappen</string>
+	<string name="click_lungo_per_aprire">Hold nede i et stykke tid for at Ã¥bende mappen</string>
 	<string name="compra_adesso">Betal nu</string>
 	<string name="condividi">Del</string>
 	<!-- D -->
 	<string name="disconneti">Fra koblet</string>
-	<string name="dona_unabirra">Doner en øl</string>
-	<string name="dona_duebirre">Donere to øl</string>
+	<string name="dona_unabirra">Doner en Ã¸l</string>
+	<string name="dona_duebirre">Donere to Ã¸l</string>
 	<string name="download">Download</string>
-	<string name="download_completato">Download færdig</string>
+	<string name="download_completato">Download fÃ¦rdig</string>
 	<!-- E -->
 	<string name="elementi">elementer</string>
 	<!-- F -->
@@ -50,8 +56,8 @@
 	<string name="lista">Liste</string>
 	<string name="log_in">Log ind&#8230;</string>
 	<!-- M -->
-	<string name="massime_dimensione">Maxsimum fil størelse er 75 kB</string>	
-        <string name="metti_wifi_on">vær venlig at tænde WiFi</string>
+	<string name="massime_dimensione">Maxsimum fil stÃ¸relse er 75 kB</string>
+	<string name="metti_wifi_on">vÃ¦r venlig at tÃ¦nde WiFi</string>
 	<string name="modifica">Rediger</string>
 	<string name="muovi">Flyt</string>
 	<!-- N -->
@@ -64,33 +70,32 @@
 	<string name="password">Adgangskode</string>
 	<string name="password_criptata">Din adgangskode er gemt og krypterede i databasen</string>
 	<string name="porta">Port</string>
-	<string name="porta_non_lettere">Port kan kun være tal</string>
+	<string name="porta_non_lettere">Port kan kun vÃ¦re tal</string>
 	<string name="preferenze">Preferences</string>
 	<string name="protocollo_principale">Main protocol</string>
 	<!-- Q -->
 	<!-- R -->
 	<string name="riavva_per_tema">for at skifte tema, genstart application</string>
-	<string name="rinomina">Omdøb</string>
-	<string name="riprova">Prøv igen</string>
+	<string name="rinomina">OmdÃ¸b</string>
+	<string name="riprova">PrÃ¸v igen</string>
 	<string name="root">Root</string>
 	<!-- S -->
-	<string name="scuro">Mørk</string>
-	<string name="seleziona">Vælg</string>
-	<string name="seleziona_account">Vælg en bruger</string>
+	<string name="scuro">MÃ¸rk</string>
+	<string name="seleziona">VÃ¦lg</string>
+	<string name="seleziona_account">VÃ¦lg en bruger</string>
 	<string name="server">Server</string>
 	<string name="sicuro">Er du sikker?</string>
-	<string name="sottotitolo">af Vlad Mihalachi</string>
 	<string name="sovrascrivi_file_locali">Overskriv lokale filer</string>
 	<string name="sto_caricando">Uploader dine filer, vent venligest&#8230;</string>
 	<!-- T -->
-	<string name="tag_non_vuoto">Tag må ikke være tomt</string>
+	<string name="tag_non_vuoto">Tag mÃ¥ ikke vÃ¦re tomt</string>
 	<string name="tema_app">App tema</string>
 	<string name="testo_acapo">Wrap text</string>
 	<string name="tipo_connessione">Connection Type</string>
 	<string name="tipo_protocollo">Protocol Type</string>
 	<!-- U -->
 	<string name="upload">Upload</string>
-	<string name="upload_completato">Upload færdig</string>
+	<string name="upload_completato">Upload fÃ¦rdig</string>
 	<!-- V -->
 	<string name="vuota">tom</string>
 	<!-- W -->
