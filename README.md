@@ -19,6 +19,7 @@ Translated By
 * PL: dedik https://github.com/dedik
 * DK: Kevin Kamper Meejach Petersen
 * ES: Crussader https://github.com/Crussader
+* SI: YumanSLO https://github.com/YumanSLO
 
 Developed By
 ============
