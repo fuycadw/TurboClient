@@ -2,7 +2,7 @@
 <resources>
 
 	<!-- A -->
-	<string name="ab_inbasso">Razdeli akcijsko vrstico</string>
+	<string name="ab_inbasso">Razdeli orodno vrstico</string>
 	<string name="account">Račun</string>
 	<string name="acquisti_legati">Vsi nakupi so povezani z vašim računom Google</string>
 	<string name="aggiungi_account">Dodaj račun</string>
@@ -22,7 +22,7 @@
 	<string name="chiave_privata">Osebni ključ</string>
 	<string name="chiaro">Svetla</string>
 	<string name="click_lungo_per_aprire">Dolgi pritisk na mapo, da jo odprete!</string>
-	<string name="codifica">Encoding</string> <!-- not translated -->
+	<string name="codifica">Kodiranje</string> <!-- not translated -->
 	<string name="compra_adesso">Plačaj zdaj</string>
 	<string name="condividi">Deli</string>
 	<!-- D -->
