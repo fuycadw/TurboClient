@@ -2,97 +2,97 @@
 <resources>
 
 	<!-- A -->
-	<string name="ab_inbasso">Split the action bar</string>
-	<string name="account">Account</string>
-	<string name="acquisti_legati">All purchases are linked to your Google account</string>
-	<string name="aggiungi_account">Add an account</string>
-	<string name="aggiungi_cartella">Add a folder</string>
-	<string name="altezza_testo">Text size</string>
-	<string name="altro">Other</string>
-	<string name="attiva">Active</string>
+	<string name="ab_inbasso">Razdeli akcijsko vrstico</string>
+	<string name="account">Račun</string>
+	<string name="acquisti_legati">Vsi nakupi so povezani z vašim računom Google</string>
+	<string name="aggiungi_account">Dodaj račun</string>
+	<string name="aggiungi_cartella">Dodaj mapo</string>
+	<string name="altezza_testo">Velikost pisave</string>
+	<string name="altro">Drugo</string>
+	<string name="attiva">Aktivno</string>
 	<!-- B -->
-	<string name="billing_non_supportato_titolo">Billing not supported</string>
-	<string name="billing_non_supportato_messaggio">The service is offline now, but you can use the app normaly.</string>
+	<string name="billing_non_supportato_titolo">Zaračunavanje ni podprto</string>
+	<string name="billing_non_supportato_messaggio">Storitev je trenutno nedosegljiva, toda aplikacijo lahko normalno uporabljate.</string>
 	<!-- C -->
-	<string name="cancella">Delete</string>
-	<string name="cancellazione">Deleting files&#8230;</string>
-	<string name="caricamento">Loading&#8230;</string>
-	<string name="caricamento_veloce">It will take a moment&#8230;</string>
-	<string name="cartella_download">Download folder</string>
-	<string name="chiave_privata">Private Key</string>
-	<string name="chiaro">Light</string>
-	<string name="click_lungo_per_aprire">Long click on a folder to open it!</string>
-	<string name="compra_adesso">Pay Now</string>
-	<string name="condividi">Share</string>
+	<string name="cancella">Izbriši</string>
+	<string name="cancellazione">Brisanje datotek&#8230;</string>
+	<string name="caricamento">Nalagam&#8230;</string>
+	<string name="caricamento_veloce">Samo trenutek&#8230;</string>
+	<string name="cartella_download">Prenesi mapo</string>
+	<string name="chiave_privata">Osebni ključ</string>
+	<string name="chiaro">Svetla</string>
+	<string name="click_lungo_per_aprire">Dolgi pritisk na mapo, da jo odprete!</string>
+	<string name="compra_adesso">Plačaj zdaj</string>
+	<string name="condividi">Deli</string>
 	<!-- D -->
-	<string name="disconneti">Disconnect</string>
-	<string name="dona_unabirra">Donate a beer</string>
-	<string name="dona_duebirre">Donate two beers</string>
-	<string name="download">Download</string>
-	<string name="download_completato">Download completed</string>
+	<string name="disconneti">Prekini</string>
+	<string name="dona_unabirra">Doniraj avtorju pivo</string>
+	<string name="dona_duebirre">Doniraj dve pivi</string>
+	<string name="download">Prenesi</string>
+	<string name="download_completato">Prenos končan</string>
 	<!-- E -->
-	<string name="elementi">elements</string>
+	<string name="elementi">Elementi</string>
 	<!-- F -->
-	<string name="fai_login">You must login !</string>
+	<string name="fai_login">Morate biti prijavljeni !</string>
 	<!-- G -->
-	<string name="guarda">View</string>
-	<string name="grazie">Thanks</string>
-	<string name="griglia">Grid</string>
-	<string name="griglia_lista">Grid or list</string>
+	<string name="guarda">Pogled</string>
+	<string name="grazie">Hvala</string>
+	<string name="griglia">Mreža</string>
+	<string name="griglia_lista">Mreža ali Seznam</string>
 	<!-- H -->
-	<string name="host">Host</string>
+	<string name="host">Gostitelj</string>
 	<!-- I -->
-	<string name="indietro">Back</string>
+	<string name="indietro">Nazaj</string>
 	<string name="info">Info</string>
 	<!-- J -->
 	<!-- K -->
 	<!-- L -->
-	<string name="lista">List</string>
-	<string name="log_in">Loggin in&#8230;</string>
+	<string name="lista">Seznam</string>
+	<string name="log_in">Prijavljanje&#8230;</string>
 	<!-- M -->
-	<string name="massime_dimensione">The maximum file size is 75 kB</string>	
-        <string name="metti_wifi_on">Please turn on WiFi</string>
-	<string name="modifica">Modify</string>
-	<string name="muovi">Move</string>
+	<string name="massime_dimensione">Največja velikost datoteke je 75 kB</string>	
+        <string name="metti_wifi_on">Prosimov vključite Wi-Fi</string>
+	<string name="modifica">Spremeni</string>
+	<string name="muovi">Premakni</string>
 	<!-- N -->
-	<string name="nessun_account">No accounts</string>
+	<string name="nessun_account">Ni računov</string>
 	<string name="nome_app">Turbo Client</string>
-	<string name="nome_utente">Username</string>
+	<string name="nome_utente">Uporabniško ime</string>
 	<!-- O -->
 	<!-- P -->
-	<string name="passiva">Passive</string>
-	<string name="password">Password</string>
-	<string name="password_criptata">Your password is saved encrypted in the database</string>
-	<string name="porta">Port</string>
-	<string name="porta_non_lettere">Port can contain only digits</string>
-	<string name="preferenze">Preferences</string>
-	<string name="protocollo_principale">Main protocol</string>
+	<string name="passiva">Pasivno</string>
+	<string name="password">Geslo</string>
+	<string name="password_criptata">Vaše geslo je šifrirano shranjeno v bazi podatkov</string>
+	<string name="porta">Vrata</string>
+	<string name="porta_non_lettere">Vrata vsebujejo SAMO številke</string>
+	<string name="preferenze">Nastavitve</string>
+	<string name="protocollo_principale">Glavni protokol</string>
 	<!-- Q -->
 	<!-- R -->
-	<string name="riavva_per_tema">To change the theme, restart the application</string>
-	<string name="rinomina">Rename</string>
-	<string name="riprova">Try again</string>
+	<string name="riavva_per_tema">Če želite zamenjati temo, ponovno zaženite aplikacijo</string>
+	<string name="rinomina">Preimenuj</string>
+	<string name="riprova">Poskusi znova</string>
 	<string name="root">Root</string>
 	<!-- S -->
-	<string name="scuro">Dark</string>
-	<string name="seleziona">Select</string>
-	<string name="seleziona_account">Select an account</string>
-	<string name="server">Server</string>
-	<string name="sicuro">Are you sure?</string>
-	<string name="sottotitolo">by Vlad Mihalachi</string>
-	<string name="sovrascrivi_file_locali">Overwrite local files</string>
-	<string name="sto_caricando">Uploading your files, please wait&#8230;</string>
+	<string name="scuro">Temna</string>
+	<string name="seleziona">Izberi</string>
+	<string name="seleziona_account">Izberi račun</string>
+	<string name="server">Strežnik</string>
+	<string name="sicuro">Ste prepričani?</string>
+	<string name="sottotitolo">avtor Vlad Mihalachi</string>
+	<string name="sovrascrivi_file_locali">Prepiši lokalne datoteke</string>
+	<string name="sto_caricando">Nalaganje vaših datotek, prosimo počakajtet&#8230;</string>
 	<!-- T -->
-	<string name="tag_non_vuoto">Tag must not be empty</string>
-	<string name="tema_app">App theme</string>
-	<string name="testo_acapo">Wrap text</string>
-	<string name="tipo_connessione">Connection Type</string>
-	<string name="tipo_protocollo">Protocol Type</string>
+	<string name="tag_non_vuoto">Oznaka ne sme biti prazna</string>
+	<string name="tema_app">Tema</string>
+	<string name="testo_acapo">Prelom besedila</string>
+	<string name="tipo_connessione">Vrsta povezave</string>
+	<string name="tipo_protocollo">Vrsta protokola</string>
 	<!-- U -->
-	<string name="upload">Upload</string>
-	<string name="upload_completato">Upload completed</string>
+	<string name="upload">Naloži</string>
+	<string name="upload_completato">Nalaganje končano</string>
 	<!-- V -->
-	<string name="vuota">Empty</string>
+	<string name="vuota">Prazno</string>
 	<!-- W -->
 	<!-- X -->
 	<!-- Y -->
