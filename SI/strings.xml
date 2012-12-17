@@ -18,7 +18,7 @@
 	<string name="cancellazione">Brisanje datotek&#8230;</string>
 	<string name="caricamento">Nalagam&#8230;</string>
 	<string name="caricamento_veloce">Samo trenutek&#8230;</string>
-	<string name="cartella_download">Prenesi mapo</string>
+	<string name="cartella_download">Mapa Prenosi</string>
 	<string name="chiave_privata">Osebni ključ</string>
 	<string name="chiaro">Svetla</string>
 	<string name="click_lungo_per_aprire">Dolgi pritisk na mapo, da jo odprete!</string>
@@ -51,7 +51,7 @@
 	<string name="log_in">Prijavljanje&#8230;</string>
 	<!-- M -->
 	<string name="massime_dimensione">Največja velikost datoteke je 75 kB</string>	
-        <string name="metti_wifi_on">Prosimov vključite Wi-Fi</string>
+        <string name="metti_wifi_on">Prosimo vključite Wi-Fi</string>
 	<string name="modifica">Spremeni</string>
 	<string name="muovi">Premakni</string>
 	<!-- N -->
@@ -62,9 +62,9 @@
 	<!-- P -->
 	<string name="passiva">Pasivno</string>
 	<string name="password">Geslo</string>
-	<string name="password_criptata">Vaše geslo je šifrirano shranjeno v bazi podatkov</string>
+	<string name="password_criptata">Vaše geslo je šifrirano, shranjeno v bazi podatkov</string>
 	<string name="porta">Vrata</string>
-	<string name="porta_non_lettere">Vrata vsebujejo SAMO številke</string>
+	<string name="porta_non_lettere">Vrata lahko vsebujejo SAMO številke</string>
 	<string name="preferenze">Nastavitve</string>
 	<string name="protocollo_principale">Glavni protokol</string>
 	<!-- Q -->
@@ -81,13 +81,13 @@
 	<string name="sicuro">Ste prepričani?</string>
 	<string name="sottotitolo">avtor Vlad Mihalachi</string>
 	<string name="sovrascrivi_file_locali">Prepiši lokalne datoteke</string>
-	<string name="sto_caricando">Nalaganje vaših datotek, prosimo počakajtet&#8230;</string>
+	<string name="sto_caricando">Nalaganje vaših datotek, prosimo počakajte&#8230;</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Oznaka ne sme biti prazna</string>
 	<string name="tema_app">Tema</string>
 	<string name="testo_acapo">Prelom besedila</string>
-	<string name="tipo_connessione">Vrsta povezave</string>
-	<string name="tipo_protocollo">Vrsta protokola</string>
+	<string name="tipo_connessione">Izberi povezavo</string>
+	<string name="tipo_protocollo">Izberi protokol</string>
 	<!-- U -->
 	<string name="upload">Naloži</string>
 	<string name="upload_completato">Nalaganje končano</string>
