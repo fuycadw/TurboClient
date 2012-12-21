@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- A -->
+	<string name="ab_inbasso">실행 바 분할</string>
+	<string name="account">계정</string>
+	<string name="acquisti_legati">모든 구매는 귀하의 구글 계정으로 연결됩니다.</string>
+	<string name="aggiungi_account">계정 추가</string>
+	<string name="aggiungi_cartella">폴더 추가</string>
+	<string name="altezza_testo">텍스트 크기</string>
+	<string name="altro">기타</string>
+	<string name="attiva">액티브(Active)</string>
+	<!-- B -->
+	<string name="billing_non_supportato_titolo">결재 지원 불가</string>
+	<string name="billing_non_supportato_messaggio">현재 서비스가 오프라인입니다. 하지만 정상적으로 사용할 수 있습니다.</string>
+	<!-- C -->
+	<string name="cancella">삭제</string>
+	<string name="cancellazione">파일 삭제중&#8230;</string>
+	<string name="caricamento">불러오는 중&#8230;</string>
+	<string name="caricamento_veloce">잠시 시간이 걸립니다.&#8230;</string>
+	<string name="cartella_download">폴더 내려받는 중</string>
+	<string name="chiave_privata">개인 키</string>
+	<string name="chiaro">라이트</string>
+	<string name="click_lungo_per_aprire">열려는 폴더에서 길게 누르세요!</string>
+	<string name="compra_adesso">지금 재생</string>
+	<string name="condividi">공유</string>
+	<!-- D -->
+	<string name="disconneti">끊기</string>
+	<string name="dona_unabirra">맥주 한 잔 후원하기</string>
+	<string name="dona_duebirre">맥주 두 잔 후원하기</string>
+	<string name="download">내려받기</string>
+	<string name="download_completato">내려받기 완료</string>
+	<!-- E -->
+	<string name="elementi">개체</string>
+	<!-- F -->
+	<string name="fai_login">로그인 필요!</string>
+	<!-- G -->
+	<string name="guarda">보기</string>
+	<string name="grazie">감사합니다.</string>
+	<string name="griglia">격자</string>
+	<string name="griglia_lista">격자 또는 목록</string>
+	<!-- H -->
+	<string name="host">호스트</string>
+	<!-- I -->
+	<string name="indietro">뒤로</string>
+	<string name="info">정보</string>
+	<!-- J -->
+	<!-- K -->
+	<!-- L -->
+	<string name="lista">목록</string>
+	<string name="log_in">로그인&#8230;</string>
+	<!-- M -->
+	<string name="massime_dimensione">최대 파일 크기는 75kB입니다.</string>	
+        <string name="metti_wifi_on">WiFi를 켜주십시오.</string>
+	<string name="modifica">수정</string>
+	<string name="muovi">이동</string>
+	<!-- N -->
+	<string name="nessun_account">계정 없음</string>
+	<string name="nome_app">터보 클라이언트</string>
+	<string name="nome_utente">사용자명</string>
+	<!-- O -->
+	<!-- P -->
+	<string name="passiva">패시브 모드</string>
+	<string name="password">비밀번호</string>
+	<string name="password_criptata">사용자 비밀번호는 DB에 암호화되어 저장됩니다.</string>
+	<string name="porta">포트</string>
+	<string name="porta_non_lettere">포트 번호는 숫자만 포함됩니다.</string>
+	<string name="preferenze">환경 설정</string>
+	<string name="protocollo_principale">메인 프로토콜</string>
+	<!-- Q -->
+	<!-- R -->
+	<string name="riavva_per_tema">변경을 적용하려면 재시작하십시오</string>
+	<string name="rinomina">이름 바꾸기</string>
+	<string name="riprova">다시 시도</string>
+	<string name="root">루트</string>
+	<!-- S -->
+	<string name="scuro">Dark</string>
+	<string name="seleziona">선택</string>
+	<string name="seleziona_account">계정을 선택하십시오</string>
+	<string name="server">서버</string>
+	<string name="sicuro">정말로 실행하시겠습니까?</string>
+	<string name="sottotitolo">by Vlad Mihalachi</string>
+	<string name="sovrascrivi_file_locali">로컬 파일 대체</string>
+	<string name="sto_caricando">파일을 올리는 중, 잠시만 기다려 주세요&#8230;</string>
+	<!-- T -->
+	<string name="tag_non_vuoto">태그는 비워둘 수 없습니다.</string>
+	<string name="tema_app">앱 테마</string>
+	<string name="testo_acapo">줄 바꿈</string>
+	<string name="tipo_connessione">연결 방식</string>
+	<string name="tipo_protocollo">프로토콜 방식</string>
+	<!-- U -->
+	<string name="upload">올리기</string>
+	<string name="upload_completato">올리기 완료</string>
+	<!-- V -->
+	<string name="vuota">비었음</string>
+	<!-- W -->
+	<!-- X -->
+	<!-- Y -->
+	<!-- Z -->
+
+</resources>
