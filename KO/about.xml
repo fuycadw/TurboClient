@@ -1,40 +1,40 @@
-Ã¼<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-	<string name="aboutactivity_info_category">Á¤º¸</string>
-	<string name="aboutactivity_app_category">APP Á¤º¸</string>
-	<string name="aboutactivity_miscellaneous_category">±âÅ¸</string>
-	<string name="aboutactivity_version">¹öÀü %1$s</string>
-	<string name="aboutactivity_author">°³¹ßÀÚ</string>
-	<string name="aboutactivity_authorsite">»çÀÌÆ®</string>
-	<string name="aboutactivity_authorsite_summary">°³¹ßÀÚ »çÀÌÆ® Ç¥½Ã</string>
-	<string name="aboutactivity_authoremail">ÀÌ¸ÞÀÏ</string>
-	<string name="aboutactivity_authoremail_summary">°³¹ßÀÚ¿¡°Ô ÀÌ¸ÞÀÏ º¸³»±â</string>
-	<string name="aboutactivity_authortwitter">Æ®À§ÅÍ</string>
-	<string name="aboutactivity_authortwitter_summary">Æ®À§ÅÍ ÆäÀÌÁö Ç¥½Ã</string>
-	<string name="aboutactivity_authorgoogleplus">±¸±Û ÇÃ·¯½º</string>
-	<string name="aboutactivity_authorgoogleplus_summary">±¸±Û ÇÃ·¯½º ÆäÀÌÁö Ç¥½Ã</string>
-	<string name="aboutactivity_readme">ÀÐ¾î º¸±â</string>
-	<string name="aboutactivity_readme_summary">ÂüÁ¶ ±Û ÀÐ±â</string>
+	<string name="aboutactivity_info_category">ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_app_category">APP ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_miscellaneous_category">ï¿½ï¿½Å¸</string>
+	<string name="aboutactivity_version">ï¿½ï¿½ï¿½ï¿½ %1$s</string>
+	<string name="aboutactivity_author">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_authorsite">ï¿½ï¿½ï¿½ï¿½Æ®</string>
+	<string name="aboutactivity_authorsite_summary">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® Ç¥ï¿½ï¿½</string>
+	<string name="aboutactivity_authoremail">ï¿½Ì¸ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_authoremail_summary">ï¿½ï¿½ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½ ï¿½Ì¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_authortwitter">Æ®ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_authortwitter_summary">Æ®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ç¥ï¿½ï¿½</string>
+	<string name="aboutactivity_authorgoogleplus">ï¿½ï¿½ï¿½ï¿½ ï¿½Ã·ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_authorgoogleplus_summary">ï¿½ï¿½ï¿½ï¿½ ï¿½Ã·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ç¥ï¿½ï¿½</string>
+	<string name="aboutactivity_readme">ï¿½Ð¾ï¿½ ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_readme_summary">ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ð±ï¿½</string>
 	<string name="aboutactivity_faq">FAQ</string>
-	<string name="aboutactivity_faq_summary">Áú¹® ´äº¯ Ç¥½Ã</string>
-	<string name="aboutactivity_changelog">º¯°æ »çÇ×</string>
-	<string name="aboutactivity_changelog_summary">APP º¯°æ »çÇ× Ç¥½Ã</string>
-	<string name="aboutactivity_license">¼­ºñ½º ¾à°ü</string>
-	<string name="aboutactivity_license_summary">¼­ºñ½º ¾à°ü ÀÐ¾î º¸±â</string>
-	<string name="aboutactivity_license_accept">µ¿ÀÇ</string>
-	<string name="aboutactivity_license_refuse">°ÅºÎ</string>
-	<string name="aboutactivity_privacy">°³ÀÎ Á¤º¸ º¸È£ Á¤Ã¥</string>
-	<string name="aboutactivity_privacy_summary">°³ÀÎ Á¤º¸ º¸È£ Á¤Ã¥ ÀÐ¾î º¸±â</string>
-	<string name="aboutactivity_todo">ÀÛ¾÷ ¸ñ·Ï</string>
-	<string name="aboutactivity_todo_summary">ÀÛ¾÷ ¸ñ·Ï ÀÏ¾î º¸±â</string>
-	<string name="aboutactivity_donate">ÈÄ¿øÇÏ±â</string>
-	<string name="aboutactivity_donate_summary">ÈÄ¿øÇØÁÖ½É¿¡ °¨»çµå¸³´Ï´Ù!</string>
-	<string name="aboutactivity_market">ÇÃ·¹ÀÌ ½ºÅä¾î</string>
-	<string name="aboutactivity_market_summary">ÇÇµå¹é ¹× Æò°¡ Àü¼Û!</string>
-	<string name="aboutactivity_authormarket">°³¹ßÀÚ ½ºÅä¾î</string>
-	<string name="aboutactivity_authormarket_summary">°³¹ßÀÚ Á¦ÀÛ ¾Û Ç¥½Ã!</string>
-	<string name="aboutactivity_reportbug">¹ö±× º¸°í</string>
-	<string name="aboutactivity_reportbug_summary">½Ã°£À» ³»¾î ÁÖ¼Å¼­ °¨»çÇÕ´Ï´Ù!</string>
+	<string name="aboutactivity_faq_summary">ï¿½ï¿½ï¿½ï¿½ ï¿½äº¯ Ç¥ï¿½ï¿½</string>
+	<string name="aboutactivity_changelog">ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_changelog_summary">APP ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ç¥ï¿½ï¿½</string>
+	<string name="aboutactivity_license">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_license_summary">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ð¾ï¿½ ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_license_accept">ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_license_refuse">ï¿½Åºï¿½</string>
+	<string name="aboutactivity_privacy">ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È£ ï¿½ï¿½Ã¥</string>
+	<string name="aboutactivity_privacy_summary">ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È£ ï¿½ï¿½Ã¥ ï¿½Ð¾ï¿½ ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_todo">ï¿½Û¾ï¿½ ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_todo_summary">ï¿½Û¾ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ï¾ï¿½ ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_donate">ï¿½Ä¿ï¿½ï¿½Ï±ï¿½</string>
+	<string name="aboutactivity_donate_summary">ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½Ö½É¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½å¸³ï¿½Ï´ï¿½!</string>
+	<string name="aboutactivity_market">ï¿½Ã·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_market_summary">ï¿½Çµï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½!</string>
+	<string name="aboutactivity_authormarket">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_authormarket_summary">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ Ç¥ï¿½ï¿½!</string>
+	<string name="aboutactivity_reportbug">ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½</string>
+	<string name="aboutactivity_reportbug_summary">ï¿½Ã°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼Å¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Ï´ï¿½!</string>
 
 </resources>
