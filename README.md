@@ -20,6 +20,7 @@ Translated By
 * DK: Kevin Kamper Meejach Petersen
 * ES: Crussader https://github.com/Crussader
 * SI: YumanSLO https://github.com/YumanSLO
+* KO: JaeHyung Lee
 
 Developed By
 ============
