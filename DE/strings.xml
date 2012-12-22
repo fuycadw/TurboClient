@@ -1,50 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-	<!--
-	 NOT TRANSLATED
-	<string name="codifica">Encoding</string>
-	-->
-
-
 	<!-- A -->
-	<string name="ab_inbasso">Action Bar aufteilen</string>
+	<string name="ab_inbasso">Action-Bar aufteilen</string>
 	<string name="account">Benutzerkonto</string>
-	<string name="acquisti_legati">Alle Einkäufe sind mit dem Google Benutzerkonto verknüpft</string>
+	<string name="acquisti_legati">Die Spende wird mit Google-Konto verknüpft.</string>
 	<string name="aggiungi_account">Benutzerkonto hinzufügen</string>
 	<string name="aggiungi_cartella">Ordner hinzufügen</string>
 	<string name="altezza_testo">Textgröße</string>
-	<string name="altro">Andere</string>
+	<string name="altro">Erweitert</string>
 	<string name="attiva">Aktiv</string>
 	<!-- B -->
 	<string name="billing_non_supportato_titolo">Bezahlung nicht unterstützt</string>
-	<string name="billing_non_supportato_messaggio">Der Dienst ist offline. Die App kann aber normal genutzt werden.</string>
+	<string name="billing_non_supportato_messaggio">Der Dienst ist offline. Die App kann weiter normal genutzt werden.</string>
 	<!-- C -->
 	<string name="cancella">Löschen</string>
-	<string name="cancellazione">Dateien löschen&#8230;</string>
-	<string name="caricamento">Laden&#8230;</string>
-	<string name="caricamento_veloce">Bitte warten&#8230;</string>
+	<string name="cancellazione">Dateien löschen\u2026</string>
+	<string name="caricamento">Laden\u2026</string>
+	<string name="caricamento_veloce">Bitte warten\u2026</string>
 	<string name="cartella_download">Download Ordner</string>
 	<string name="chiave_privata">Privater Schlüssel</string>
 	<string name="chiaro">Hell</string>
-	<string name="click_lungo_per_aprire">Gedrückt halten um den Ordner zu öffnen!</string>
+	<string name="click_lungo_per_aprire">Gedrückt halten um den Ordner zu öffnen</string>
 	<string name="compra_adesso">Jetzt bezahlen</string>
 	<string name="condividi">Teilen</string>
 	<!-- D -->
 	<string name="disconneti">Trennen</string>
-	<string name="dona_unabirra">Spende ein Bier</string>
-	<string name="dona_duebirre">Spende zwei Biere</string>
+	<string name="dona_unabirra">1 Bier</string>
+	<string name="dona_duebirre">2 Biere</string>
 	<string name="download">Herunterladen</string>
 	<string name="download_completato">Herunterladen abgeschlossen</string>
 	<!-- E -->
 	<string name="elementi">Elemente</string>
 	<!-- F -->
-	<string name="fai_login">Bitte einloggen!</string>
+	<string name="fai_login">Bitte einloggen</string>
 	<!-- G -->
 	<string name="guarda">Anzeigen</string>
 	<string name="grazie">Danke</string>
 	<string name="griglia">Gitter</string>
-	<string name="griglia_lista">Gitter oder Liste</string>
+	<string name="griglia_lista">Darstellung</string>
 	<!-- H -->
 	<string name="host">Server</string>
 	<!-- I -->
@@ -54,10 +48,10 @@
 	<!-- K -->
 	<!-- L -->
 	<string name="lista">Liste</string>
-	<string name="log_in">Einloggen&#8230;</string>
+	<string name="log_in">Einloggen\u2026</string>
 	<!-- M -->
 	<string name="massime_dimensione">Die Maximale Dateigröße beträgt 75 kB</string>
-	<string name="metti_wifi_on">Bitte Wifi einschalten</string>
+	<string name="metti_wifi_on">Bitte WLAN einschalten</string>
 	<string name="modifica">Bearbeiten</string>
 	<string name="muovi">Verschieben</string>
 	<!-- N -->
@@ -74,7 +68,7 @@
 	<string name="protocollo_principale">Standardprotokoll</string>
 	<!-- Q -->
 	<!-- R -->
-	<string name="riavva_per_tema">Starte die App neu, um das Theme anzuwenden</string>
+	<string name="riavva_per_tema">Neustart erforderlich</string>
 	<string name="rinomina">Umbenennen</string>
 	<string name="riprova">Erneut versuchen</string>
 	<string name="root">Standardverzeichnis</string>
@@ -85,12 +79,12 @@
 	<string name="server">Server</string>
 	<string name="sicuro">Fortfahren?</string>
 	<string name="sovrascrivi_file_locali">Lokale Dateien überschreiben</string>
-	<string name="sto_caricando">Dateien werden hochgeladen ..</string>
+	<string name="sto_caricando">Dateien werden hochgeladen\u2026</string>
 	<!-- T -->
 	<string name="tag_non_vuoto">Die Beschreibung darf nicht leer sein</string>
 	<string name="tema_app">Design</string>
 	<string name="testo_acapo">Zeilenumbruch</string>
-	<string name="tipo_connessione">Verbindung</string>
+	<string name="tipo_connessione">Verbindungsart</string>
 	<string name="tipo_protocollo">Protokoll</string>
 	<!-- U -->
 	<string name="upload">Hochladen</string>
