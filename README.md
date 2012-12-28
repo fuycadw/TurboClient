@@ -16,14 +16,14 @@ It has a beatiful Holo Theme. It's designed for Smartphones and Tablets 8+.
 ###1.4
 Coming Soon
 ###1.3
-*Now big sftp downloads and uploads works!
-*Option to set encoding
-*Added NL,DE,AL,DK and ES translations
-*Disabled the dictionary when you put the host, username, and root private key
-*Now you can cancel sftp Upload/Download
-*The subtitle is now hidden
-*New icon to add accounts
-*Other bugfix
+* Now big sftp downloads and uploads works!
+* Option to set encoding
+* Added NL,DE,AL,DK and ES translations
+* Disabled the dictionary when you put the host, username, and root private key
+* Now you can cancel sftp Upload/Download
+* The subtitle is now hidden
+* New icon to add accounts
+* Other bugfix
 
 ##Translated By
 
