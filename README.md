@@ -10,8 +10,6 @@ It has a beatiful Holo Theme. It's designed for Smartphones and Tablets 8+.
          src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 </a>
 
-**See http://j.mp/turboclient for more information.**
-
 ![Example Image][1]
 
 ##Changelog
