@@ -10,7 +10,7 @@ It has a beatiful Holo Theme. It's designed for Smartphones and Tablets 8+.
          src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 </a>
 
-![Example Image][1]
+![Example Image][1]![Example Image][2]
 
 ##Changelog
 ###1.4
@@ -25,17 +25,28 @@ Coming Soon
 * New icon to add accounts
 * Other bugfix
 
-##Translated By
+##Credits
 
-* RO: Adrian Dohot Mihai https://github.com/xavier15
-* NL: duncank https://github.com/Duncank
-* DE: jackmu95 https://github.com/jackmu95
-* AL: eriontreska https://github.com/eriontreska
-* PL: dedik https://github.com/dedik
-* DK: Kevin Kamper Meejach Petersen
-* ES: Crussader https://github.com/Crussader
-* SI: YumanSLO https://github.com/YumanSLO
-* KO: JaeHyung Lee
+*Icon: Milos Mirkovic
+*Youtube Video: Dumitru Grubii
+*AL: ErionT
+*CA
+*DE: Jacob Müller
+*DK: Kevin Petersen
+*ES: Diego Carballeira
+*FR: @Geekatori
+*GL: djmossk
+*HE: s_h
+*IT: Me (LOL)
+*JA: liquid_amber
+*KO: JaeHyung Lee
+*MS: redemption024
+*NO: Joachim M. Giæver
+*NL: Duncan Krebbers
+*PL: Kamil Wojtczyk
+*RO: Dohot Adrian
+*RU: Leks13
+*SK: YumanSLO
 
 ##Developed By
 
@@ -51,4 +62,5 @@ Vlad Mihalachi - <themyvlad@gmail.com>
 * **XDA thread** http://forum.xda-developers.com/showthread.php?p=34879547
 
 
- [1]: https://lh3.googleusercontent.com/-XmGZGdE767c/ULH-hixYU7I/AAAAAAAABQw/GUhojqrMoho/s722/5.png
+ [1]: https://lh5.googleusercontent.com/-3zyXjXcl4gc/UTIFAvhGwOI/AAAAAAAAC6o/fbsGvlCOuYI/s509/nexus71.png
+ [2]: https://lh4.googleusercontent.com/-qjnHlsgQSug/UTIFE272o3I/AAAAAAAAC64/7D3mx0POZAo/s509/nexus72.png
