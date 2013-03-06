@@ -27,26 +27,26 @@ Coming Soon
 
 ##Credits
 
-*Icon: Milos Mirkovic
-*Youtube Video: Dumitru Grubii
-*AL: ErionT
-*CA
-*DE: Jacob Müller
-*DK: Kevin Petersen
-*ES: Diego Carballeira
-*FR: @Geekatori
-*GL: djmossk
-*HE: s_h
-*IT: Me (LOL)
-*JA: liquid_amber
-*KO: JaeHyung Lee
-*MS: redemption024
-*NO: Joachim M. Giæver
-*NL: Duncan Krebbers
-*PL: Kamil Wojtczyk
-*RO: Dohot Adrian
-*RU: Leks13
-*SK: YumanSLO
+* Icon: Milos Mirkovic
+* Youtube Video: Dumitru Grubii
+* AL: ErionT
+* CA
+* DE: Jacob Müller
+* DK: Kevin Petersen
+* ES: Diego Carballeira
+* FR: @Geekatori
+* GL: djmossk
+* HE: s_h
+* IT: Me (LOL)
+* JA: liquid_amber
+* KO: JaeHyung Lee
+* MS: redemption024
+* NO: Joachim M. Giæver
+* NL: Duncan Krebbers
+* PL: Kamil Wojtczyk
+* RO: Dohot Adrian
+* RU: Leks13
+* SK: YumanSLO
 
 ##Developed By
 
