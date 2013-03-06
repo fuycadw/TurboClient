@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">Del handlings linjen</string>
+    <string name="account">Konto</string>
+    <string name="aggiungi_account">Ny konto</string>
+    <string name="altezza_testo">Skriftstørrelse</string>
+    <string name="altro">Annet</string>
+    <string name="attiva">Aktiv</string>
+    <!-- B -->
+    <!-- C -->
+    <string name="cancella">Slett</string>
+    <string name="cancellazione">Sletter filer</string>
+    <string name="caricamento">laster</string>
+    <string name="caricamento_veloce">Dette vil ta en stund</string>
+    <string name="cartella_download">Laster ned mappe</string>
+    <string name="cartella_locale_corrente">Gjeldende lokal mappe</string>
+    <string name="cartella_vuota">Tom mappe</string>
+    <string name="chiave_privata">Privat Nøkkel</string>
+    <string name="chiaro">Lys</string>
+    <string name="chiaro_scuro">Lys og Mørk</string>
+    <string name="codifica">Encoding</string>
+    <string name="condividi">Del</string>
+    <string name="crea_cartella_locale">Opprett lokal mappe</string>
+    <string name="crea_cartella_remota">Opprett ekstern mappe</string>
+    <string name="crea_cartella_se_non_esiste">Opprett mappen om den ikke finnes</string>
+    <!-- D -->
+    <string name="disconneti">Bryt tilkobling</string>
+    <string name="default_local_folder">Standard lokal mappe</string>
+    <string name="dove_scaricare">Lagrings destinasjon</string>
+    <string name="download">Last ned</string>
+    <string name="download_completato">Nedlastning fullført</string>
+    <!-- E -->
+    <!-- F -->
+    <string name="fai_login">Du må logge inn!</string>
+    <string name="fatto">Fullført</string>
+    <string name="file_troppo_grande">Beklager, filen er for stor!</string>
+    <!-- G -->
+    <string name="gia_fatto">Har allerede</string>
+    <string name="guarda">Vis</string>
+    <string name="griglia">Grid</string>
+    <!-- H -->
+    <string name="home">Hjem</string>
+    <string name="host">Host</string>
+    <!-- I -->
+    <string name="info">Info</string>
+    <string name="invia_rapporti">Anonym feilrapportering</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="leggi_e_modifica">Les og Endring</string>
+    <string name="lista">Liste</string>
+    <string name="locale">Lokal</string>
+    <string name="log_in">Logger på</string>
+    <!-- M -->
+    <string name="metti_wifi_on">Vennligst skru på Wi-Fi</string>
+    <string name="modifica">Endre</string>
+    <string name="mostra_file_nascosti_locali">Vis skjulte filer lokalt</string>
+    <string name="mostra_file_nascosti_remoti">Vis skjulte filer eksternt</string>
+    <string name="muovi">Flytt</string>
+    <!-- N -->
+    <string name="nascondi">Gjem</string>
+    <string name="nessun_account">Ingen kontoer</string>
+    <string name="nome_app">Turbo Klient</string>
+    <string name="nome_utente">Brukernavn</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">Passiv</string>
+    <string name="password">Passord</string>
+    <string name="password_criptata">Passordet ditt er lagret kryptert i databasen</string>
+    <string name="porta">Port</string>
+    <string name="porta_non_lettere">Port kan bare bestå av tall</string>
+    <string name="preferenze">Innstillinger</string>
+    <string name="protocollo_principale">Hoved protokoll</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="remoto">Ekstern</string>
+    <string name="riavva_per_tema">Endring av tema krever omstart av programmet</string>
+    <string name="ricordamelo">Påminn meg senere</string>
+    <string name="rinomina">Gi nytt navn</string>
+    <string name="root">Rot</string>
+    <!-- S -->
+    <string name="salva">Lagre</string>
+    <string name="scuro">Mørk</string>
+    <string name="seleziona">Velg</string>
+    <string name="seleziona_account">Velg en konto</string>
+    <string name="seleziona_unfile">Velg en fil</string>
+    <string name="sicuro">Et du sikker?</string>
+    <string name="sovrascrivi_file_locali">Skriv over lokale filer</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">Tagg må ikke være tom</string>
+    <string name="tema_app">App tema</string>
+    <string name="tipo_connessione">Tilkoblingstype</string>
+    <string name="tipo_di_lista">Liste type</string>
+    <string name="tipo_protocollo">Protokoll type</string>
+    <!-- U -->
+    <string name="un_altra_cartella">Annen mappe</string>
+    <string name="upload">Opplastning</string>
+    <string name="upload_completato">Opplastning fullført</string>
+    <!-- V -->
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+    <!-- SYNC -->
+    <string name="beta_function">Beta funksjonalitet</string>
+    <string name="sync">Sync</string>
+    <string name="remote_folder_to_sync">Ekstern mappe å synce</string>
+    <string name="local_folder_to_sync">Lokal mappe å synce</string>
+
+    <!-- EDITOR -->
+    <string name="line_numbering">Linje nummerering</string>
+    <string name="testo_acapo">Bryt tekst</string>
+    <string name="testo_indietro">Angre</string>
+    <string name="testo_rifai">Gjenta</string>
+    <string name="syntax_highlight">Syntaks farging</string>
+
+    <!-- RATE -->
+    <string name="rate_message">Hvis du er fornøyd med Turbo Client setter vi pris på om du tar deg tiden til å gi appen en karakter og en omtale. Takk for din støtte!</string>
+    <string name="vota">Gi karakter</string>
+
+</resources>

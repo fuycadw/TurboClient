@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">Ndaj kutine e veprimeve</string>
+    <string name="account">Llogaria</string>
+    <string name="acquisti_legati">Te gjitha blerjet lidhen me llogarine tuaj ne Google</string>
+    <string name="aggiungi_account">Shto nje Llogari te Re</string>
+    <string name="aggiungi_cartella">Shto nje Skedar</string>
+    <string name="altezza_testo">Madhesia e Germave</string>
+    <string name="altro">Te Tjera</string>
+    <string name="attiva">Aktive</string>
+    <!-- B -->
+    <string name="billing_non_supportato_titolo">Pagesa nuk Suportohet</string>
+    <string name="billing_non_supportato_messaggio">Sherbimi nuk eshte aktiv, por ju mund te perdorni aplikacionin
+        normalisht.
+    </string>
+    <!-- C -->
+    <string name="cancella">Fshi</string>
+    <string name="cancellazione">Duke Fshire&#8230;</string>
+    <string name="caricamento">Duke u Ngarkuar&#8230;</string>
+    <string name="caricamento_veloce">Prisni nje Moment&#8230;</string>
+    <string name="cartella_download">Shkarko nje Skedar</string>
+    <string name="chiave_privata">Celes Privat</string>
+    <string name="chiaro">E Celet</string>
+    <string name="click_lungo_per_aprire">Mbani shtypur nje skedar per ta hapur!</string>
+    <string name="codifica">Encoding</string>
+    <string name="compra_adesso">Paguaj Tani</string>
+    <string name="condividi">Shpernda</string>
+    <!-- D -->
+    <string name="disconneti">Shkeput Lidhjen</string>
+    <string name="dona_unabirra">Dhuroni nje Birre</string>
+    <string name="dona_duebirre">Dhuroni 2 Birra</string>
+    <string name="download">Shkarko</string>
+    <string name="download_completato">Shkarkimi Perfundoi</string>
+    <!-- E -->
+    <string name="elementi">elementet</string>
+    <!-- F -->
+    <string name="fai_login">Ju duhet te logoheni!</string>
+    <string name="fatto">E bërë</string>
+    <!-- G -->
+    <string name="guarda">Shih</string>
+    <string name="grazie">Ju Faleminderit</string>
+    <string name="griglia">Tabele</string>
+    <!-- H -->
+    <string name="host">Host</string>
+    <!-- I -->
+    <string name="indietro">Prapa</string>
+    <string name="info">Te Dhena</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="lista">Liste</string>
+    <string name="log_in">Duke u loguar&#8230;</string>
+    <!-- M -->
+    <string name="massime_dimensione">Madhesia maximale e skedarit eshte 75 kB</string>
+    <string name="metti_wifi_on">Ju lutem aktivizoni WiFi</string>
+    <string name="modifica">Modifiko</string>
+    <string name="muovi">Zhvendos</string>
+    <!-- N -->
+    <string name="nessun_account">Asnje llogari</string>
+    <string name="nome_app">Turbo Client</string>
+    <string name="nome_utente">Perdoruesi</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">Pasive</string>
+    <string name="password">Fjalekalimi</string>
+    <string name="password_criptata">Fjalekalimi juaj ruhet i enkriptuar ne bazen e te dhenave</string>
+    <string name="porta">Porta</string>
+    <string name="porta_non_lettere">Porta mund te permbaje vetem numura</string>
+    <string name="preferenze">Preferenca</string>
+    <string name="protocollo_principale">Protokolli Kryesor</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="riavva_per_tema">To change the theme, restart the application</string>
+    <string name="rinomina">Riemerto</string>
+    <string name="riprova">Provoni Perseri</string>
+    <string name="root">Rrenja</string>
+    <!-- S -->
+    <string name="scuro">E Erret</string>
+    <string name="seleziona">Zgjidhni</string>
+    <string name="seleziona_account">Zgjidhni nje llogari</string>
+    <string name="sicuro">Jeni te Sigurt?</string>
+    <string name="sovrascrivi_file_locali">Mbivendos dosjet lokale</string>
+    <string name="sto_caricando">Duke ngarkuar skedaret tuaj, ju lutem prisni&#8230;</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">Etiketa nuk duhet te jete bosh</string>
+    <string name="tema_app">Tema e Aplikacionit</string>
+    <string name="testo_acapo">Krijo rresht te ri</string>
+    <string name="tipo_connessione">Tipi i Lidhjes</string>
+    <string name="tipo_protocollo">Tipi i Protokollit</string>
+    <!-- U -->
+    <string name="upload">Ngarkim</string>
+    <string name="upload_completato">Ngarkimi Perfundoi</string>
+    <!-- V -->
+    <string name="vuota">Bosh</string>
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+</resources>

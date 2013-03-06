@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~ Copyright (c) 2012, 2013 Vlad Mihalachi
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<!--
+  ~ Copyright (c) 2013 Vlad Mihalachi.
+  -->
+
+<resources>
+
+    <string name="aboutactivity_info_category">Informationen</string>
+    <string name="aboutactivity_app_category">App-Informationen</string>
+    <string name="aboutactivity_miscellaneous_category">Sonstiges</string>
+    <string name="aboutactivity_version">v %1$s</string>
+    <string name="aboutactivity_author">Autor</string>
+    <string name="aboutactivity_authorsite">Website</string>
+    <string name="aboutactivity_authorsite_summary">Die Website des Autors anzeigen</string>
+    <string name="aboutactivity_authoremail">E-Mail</string>
+    <string name="aboutactivity_authoremail_summary">Dem Autor eine E-Mail senden</string>
+    <string name="aboutactivity_authortwitter">Twitter</string>
+    <string name="aboutactivity_authortwitter_summary">Twitter Profil anzeigen</string>
+    <string name="aboutactivity_authorgoogleplus">Google\u002B</string>
+    <string name="aboutactivity_authorgoogleplus_summary">Google\u002B Profil anzeigen</string>
+    <string name="aboutactivity_readme">Readme</string>
+    <string name="aboutactivity_readme_summary">Readme-Datei anzeigen</string>
+    <string name="aboutactivity_faq">FAQ</string>
+    <string name="aboutactivity_faq_summary">App-FAQ anzeigen</string>
+    <string name="aboutactivity_changelog">Changelog</string>
+    <string name="aboutactivity_changelog_summary">Changelog anzeigen</string>
+    <string name="aboutactivity_license">Nutzungsbedingungen</string>
+    <string name="aboutactivity_license_summary">Nutzungsbedingungen anzeigen</string>
+    <string name="aboutactivity_license_accept">Akzeptieren</string>
+    <string name="aboutactivity_license_refuse">Ablehnen</string>
+    <string name="aboutactivity_privacy">Datenschutzrichtlinien</string>
+    <string name="aboutactivity_privacy_summary">Datenschutzrichtlinien anzeigen</string>
+    <string name="aboutactivity_todo">ToDo-Liste</string>
+    <string name="aboutactivity_todo_summary">ToDo-Liste anzeigen</string>
+    <string name="aboutactivity_donate">Spenden</string>
+    <string name="aboutactivity_donate_summary">Danke, dass du mich unterstützst</string>
+    <string name="aboutactivity_market">Play Store</string>
+    <string name="aboutactivity_market_summary">Feedback abgeben</string>
+    <string name="aboutactivity_authormarket">Weitere App</string>
+    <string name="aboutactivity_authormarket_summary">Weitere Apps des Autors anzeigen</string>
+    <string name="aboutactivity_reportbug">Fehler melden</string>
+    <string name="aboutactivity_reportbug_summary">Danke, dass du dir die Zeit genommen hast</string>
+
+</resources>

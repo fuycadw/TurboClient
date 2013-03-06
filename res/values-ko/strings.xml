@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">실행 바 분할</string>
+    <string name="account">계정</string>
+    <string name="aggiungi_account">계정 추가</string>
+    <string name="altezza_testo">텍스트 크기</string>
+    <string name="altro">기타</string>
+    <string name="attiva">액티브(Active)</string>
+    <!-- B -->
+    <!-- C -->
+    <string name="cancella">삭제</string>
+    <string name="cancellazione">파일 삭제중&#8230;</string>
+    <string name="caricamento">불러오는 중&#8230;</string>
+    <string name="caricamento_veloce">잠시 시간이 걸립니다.&#8230;</string>
+    <string name="cartella_download">폴더 내려받는 중</string>
+    <string name="cartella_locale_corrente">현재 로컬 폴더</string>
+    <string name="cartella_vuota">빈 폴더</string>
+    <string name="chiave_privata">개인 키</string>
+    <string name="chiaro">라이트</string>
+    <string name="chiaro_scuro">라이트 - 다크</string>
+    <string name="codifica">인코딩</string>
+    <string name="condividi">공유</string>
+    <string name="crea_cartella_locale">로컬 폴더 만들기</string>
+    <string name="crea_cartella_remota">원격 폴더 만들기</string>
+    <string name="crea_cartella_se_non_esiste">존재하지 않으면 폴더 만들기</string>
+    <!-- D -->
+    <string name="disconneti">연결 끊기</string>
+    <string name="default_local_folder">기본 로컬 폴더</string>
+    <string name="dove_scaricare">어디에 내려받으시겠습니까?</string>
+    <string name="download">내려받기</string>
+    <string name="download_completato">내려받기 완료</string>
+    <!-- E -->
+    <!-- F -->
+    <string name="fai_login">로그인 필요!</string>
+    <string name="fatto">완료</string>
+    <string name="file_troppo_grande">파일이 너무 큽니다.</string>
+    <!-- G -->
+    <string name="gia_fatto">이미 평가했습니다.</string>
+    <string name="guarda">보기</string>
+    <string name="griglia">격자</string>
+    <!-- H -->
+    <string name="home">홈</string>
+    <string name="host">호스트</string>
+    <!-- I -->
+    <string name="info">정보</string>
+    <string name="invia_rapporti">익명으로 버그 보고서 전송</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="leggi_e_modifica">읽기 및 편집</string>
+    <string name="lista">목록</string>
+    <string name="locale">로컬</string>
+    <string name="log_in">로그인&#8230;</string>
+    <!-- M -->
+    <string name="metti_wifi_on">WiFi를 켜주십시오.</string>
+    <string name="modifica">편집</string>
+    <string name="mostra_file_nascosti_locali">로컬 숨김 파일 표시</string>
+    <string name="mostra_file_nascosti_remoti">원격 숨김 파일 표시</string>
+    <string name="muovi">이동</string>
+    <!-- N -->
+    <string name="nascondi">숨김</string>
+    <string name="nessun_account">계정 없음</string>
+    <string name="nome_app">터보 클라이언트</string>
+    <string name="nome_utente">사용자명</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">패시브 모드</string>
+    <string name="password">비밀번호</string>
+    <string name="password_criptata">사용자 비밀번호는 DB에 암호화되어 저장됩니다.</string>
+    <string name="porta">포트</string>
+    <string name="porta_non_lettere">포트 번호는 숫자만 사용하십시오.</string>
+    <string name="preferenze">환경 설정</string>
+    <string name="protocollo_principale">메인 프로토콜</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="remoto">원격</string>
+    <string name="riavva_per_tema">변경을 적용하려면 재시작하십시오</string>
+    <string name="ricordamelo">나중에 기억</string>
+    <string name="rinomina">이름 바꾸기</string>
+    <string name="root">루트</string>
+    <!-- S -->
+    <string name="salva">저장</string>
+    <string name="scuro">다크</string>
+    <string name="seleziona">선택</string>
+    <string name="seleziona_account">계정을 선택하십시오</string>
+    <string name="seleziona_unfile">파일 선택</string>
+    <string name="sicuro">정말로 실행하시겠습니까?</string>
+    <string name="sovrascrivi_file_locali">로컬 파일 대체</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">태그는 비워둘 수 없습니다.</string>
+    <string name="tema_app">앱 테마</string>
+    <string name="tipo_connessione">연결 방식</string>
+    <string name="tipo_di_lista">목록 유형</string>
+    <string name="tipo_protocollo">프로토콜 방식</string>
+    <!-- U -->
+    <string name="un_altra_cartella">다른 폴더</string>
+    <string name="upload">올리기</string>
+    <string name="upload_completato">올리기 완료</string>
+    <!-- V -->
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+    <!-- SYNC -->
+    <string name="beta_function">베타 기능</string>
+    <string name="sync">등기화</string>
+    <string name="remote_folder_to_sync">동기화 할 원격 폴더</string>
+    <string name="local_folder_to_sync">동기화 할 로컬 폴더</string>
+
+    <!-- EDITOR -->
+    <string name="line_numbering">줄 번호</string>
+    <string name="testo_acapo">줄 바꿈</string>
+    <string name="testo_indietro">실행 취소</string>
+    <string name="testo_rifai">다시 실행</string>
+    <string name="syntax_highlight">구문 강조</string>
+
+    <!-- RATE -->
+    <string name="rate_message">Turbo Client 사용이 즐거우시다면, 앱 평가/리뷰를 위해 잠깜만 시간을 내어 저희에게 도움을 주시면 감사하겠습니다.</string>
+    <string name="vota">평가</string>
+
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">アクションバーを分割</string>
+    <string name="account">アカウント</string>
+    <string name="aggiungi_account">新規アカウント</string>
+    <string name="altezza_testo">テキストサイズ</string>
+    <string name="altro">その他</string>
+    <string name="attiva">アクティブ</string>
+    <!-- B -->
+    <!-- C -->
+    <string name="cancella">削除</string>
+    <string name="cancellazione">ファイルを削除中&#8230;</string>
+    <string name="caricamento">ローディング&#8230;</string>
+    <string name="cartella_download">ダウンロード先</string>
+    <string name="cartella_locale_corrente">ローカルのカレントフォルダ</string>
+    <string name="cartella_vuota">空のフォルダ</string>
+    <string name="chiave_privata">秘密鍵</string>
+    <string name="chiaro">Light</string>
+    <string name="chiaro_scuro">Light and Dark</string>
+    <string name="codifica">文字エンコード</string>
+    <string name="condividi">共有</string>
+    <string name="crea_cartella_locale">ローカルフォルダの作成</string>
+    <string name="crea_cartella_remota">リモートフォルダの作成</string>
+    <string name="crea_cartella_se_non_esiste">フォルダがなければ作成する</string>
+    <!-- D -->
+    <string name="disconneti">切断</string>
+    <string name="default_local_folder">デフォルトのローカルフォルダ</string>
+    <string name="dove_scaricare">ダウンロード先は？</string>
+    <string name="download">ダウンロード</string>
+    <string name="download_completato">ダウンロード完了</string>
+    <!-- E -->
+    <!-- F -->
+    <string name="fai_login">ログインする必要があります</string>
+    <string name="fatto">完了</string>
+    <string name="file_troppo_grande">ファイルが大きすぎます</string>
+    <!-- G -->
+    <string name="gia_fatto">既に存在します</string>
+    <string name="guarda">ビュー</string>
+    <string name="griglia">グリッド</string>
+    <!-- H -->
+    <string name="home">ホーム</string>
+    <string name="host">ホスト</string>
+    <!-- I -->
+    <string name="info">情報</string>
+    <string name="invia_rapporti">匿名のバグレポートを送信</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="leggi_e_modifica">読み込んで編集</string>
+    <string name="lista">リスト</string>
+    <string name="locale">ローカル</string>
+    <string name="log_in">ログイン中&#8230;</string>
+    <!-- M -->
+    <string name="metti_wifi_on">WiFiを有効にしてください</string>
+    <string name="modifica">編集</string>
+    <string name="mostra_file_nascosti_locali">ローカルの隠しファイルを表示</string>
+    <string name="mostra_file_nascosti_remoti">リモートの隠しファイルを表示</string>
+    <string name="muovi">移動</string>
+    <!-- N -->
+    <string name="nascondi">隠す</string>
+    <string name="nessun_account">アカウントがありません</string>
+    <string name="nome_app">Turbo Client</string>
+    <string name="nome_utente">ユーザー名</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">パッシブモード</string>
+    <string name="password">パスワード</string>
+    <string name="password_criptata">パスワードは暗号化されて保存されます</string>
+    <string name="porta">ポート番号</string>
+    <string name="porta_non_lettere">ポート番号には数字のみ設定できます</string>
+    <string name="preferenze">設定</string>
+    <string name="protocollo_principale">主に利用するプロトコル</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="remoto">リモート</string>
+    <string name="riavva_per_tema">テーマを変更するにはアプリを再起動してください</string>
+    <string name="ricordamelo">後で通知する</string>
+    <string name="rinomina">名前の変更</string>
+    <string name="root">Root</string>
+    <!-- S -->
+    <string name="salva">保存</string>
+    <string name="scuro">Dark</string>
+    <string name="seleziona">選択</string>
+    <string name="seleziona_account">アカウントを選択</string>
+    <string name="seleziona_unfile">ファイルを選択</string>
+    <string name="sicuro">本当に実行しますか？</string>
+    <string name="sovrascrivi_file_locali">ローカルのファイルを上書きする</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">タグを入力してください</string>
+    <string name="tema_app">アプリのテーマ</string>
+    <string name="tipo_connessione">接続のタイプ</string>
+    <string name="tipo_di_lista">リストのタイプ</string>
+    <string name="tipo_protocollo">プロトコルのタイプ</string>
+    <!-- U -->
+    <string name="un_altra_cartella">他のフォルダ</string>
+    <string name="upload">アップロード</string>
+    <string name="upload_completato">アップロードが完了しました</string>
+    <!-- V -->
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+    <!-- SYNC -->
+    <string name="beta_function">ベータ版機能</string>
+    <string name="sync">同期</string>
+    <string name="remote_folder_to_sync">同期するリモートのフォルダ</string>
+    <string name="local_folder_to_sync">同期するローカルのフォルダ</string>
+
+    <!-- EDITOR -->
+    <string name="line_numbering">行番号を表示</string>
+    <string name="testo_indietro">取り消し</string>
+    <string name="testo_rifai">やり直し</string>
+    <string name="syntax_highlight">構文強調表示</string>
+
+    <!-- RATE -->
+    <string name="rate_message">Turbo Clientを気に入ったらぜひrateやreviewをしてください。ご協力に感謝します！</string>
+    <string name="vota">レート</string>
+
+</resources>

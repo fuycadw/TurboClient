@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+<resources>
+    <!--  A  -->
+    <string name="ab_inbasso">Alihkan bar permulaan</string>
+    <string name="account">Akaun</string>
+    <string name="aggiungi_account">Akaun Baru</string>
+    <string name="altezza_testo">Saiz Teks</string>
+    <string name="altro">Lain-lain</string>
+    <string name="attiva">Aktif</string>
+    <!--  B  -->
+    <!--  C  -->
+    <string name="cancella">Buang</string>
+    <string name="cancellazione">Menghapus fail...</string>
+    <string name="caricamento">Memproses...</string>
+    <string name="caricamento_veloce">Sila tunggu sebentar...</string>
+    <string name="cartella_download">Folder muat turun</string>
+    <string name="cartella_locale_corrente">Folder local sekarang</string>
+    <string name="cartella_vuota">Folder kosong</string>
+    <string name="chiave_privata">Kata kunci Private</string>
+    <string name="chiaro">Terang</string>
+    <string name="chiaro_scuro">Terang dan Gelap</string>
+    <string name="codifica">Pengekodan</string>
+    <string name="condividi">Kongsi</string>
+    <string name="crea_cartella_locale">Buat folder local</string>
+    <string name="crea_cartella_remota">Buat folder remote</string>
+    <string name="crea_cartella_se_non_esiste">Buat folder jika ianya tidak wujud</string>
+    <!--  D  -->
+    <string name="disconneti">Putuskan sambungan</string>
+    <string name="default_local_folder">Folder local asal</string>
+    <string name="dove_scaricare">Muat turun ke mana?</string>
+    <string name="download">Muat turun</string>
+    <string name="download_completato">Muat turun selesai</string>
+    <!--  E  -->
+    <!--  F  -->
+    <string name="fai_login">Anda perlu log masuk!</string>
+    <string name="fatto">Siap</string>
+    <string name="file_troppo_grande">Maaf, saiz fail terlalu besar!</string>
+    <!--  G  -->
+    <string name="gia_fatto">Sudah ada</string>
+    <string name="guarda">Lihat</string>
+    <string name="griglia">Grid</string>
+    <!--  H  -->
+    <string name="home">Home</string>
+    <string name="host">Host</string>
+    <!--  I  -->
+    <string name="info">Info</string>
+    <string name="invia_rapporti">Hantar laporan tentang bug</string>
+    <!--  J  -->
+    <!--  K  -->
+    <!--  L  -->
+    <string name="leggi_e_modifica">Baca dan Edit</string>
+    <string name="lista">Senarai</string>
+    <string name="locale">Local</string>
+    <string name="log_in">Melog masuk...</string>
+    <!--  M  -->
+    <string name="metti_wifi_on">Sila aktifkan WiFi</string>
+    <string name="modifica">Edit</string>
+    <string name="mostra_file_nascosti_locali">Tunjuk fail tersembunyi local</string>
+    <string name="mostra_file_nascosti_remoti">Tunjuk fail tersembunyi remote</string>
+    <string name="muovi">Alih</string>
+    <!--  N  -->
+    <string name="nascondi">Sorok</string>
+    <string name="nessun_account">Tiada Akaun</string>
+    <string name="nome_app">Turbo Client</string>
+    <string name="nome_utente">Kata Pengguna</string>
+    <!--  O  -->
+    <!--  P  -->
+    <string name="passiva">Pasif</string>
+    <string name="password">Kata Kunci</string>
+    <string name="password_criptata">
+        Kata kunci disimpan di pangkalan data dengan selamat
+    </string>
+    <string name="porta">Port</string>
+    <string name="porta_non_lettere">Port hanya boleh diisi dengan digit</string>
+    <string name="preferenze">Pilihan</string>
+    <string name="protocollo_principale">Protokol utama</string>
+    <!--  Q  -->
+    <!--  R  -->
+    <string name="remoto">Remote</string>
+    <string name="riavva_per_tema">
+        Untuk mengubah tema, tutup dan buka semula aplikasi
+    </string>
+    <string name="ricordamelo">Ingatkan semula</string>
+    <string name="rinomina">Edit nama</string>
+    <string name="root">root</string>
+    <!--  S  -->
+    <string name="salva">Simpan</string>
+    <string name="scuro">Gelap</string>
+    <string name="seleziona">Pilih</string>
+    <string name="seleziona_account">Pilih akaun</string>
+    <string name="seleziona_unfile">Pilih fail</string>
+    <string name="sicuro">Anda pasti?</string>
+    <string name="sovrascrivi_file_locali">Ganti fail local</string>
+    <!--  T  -->
+    <string name="tag_non_vuoto">Tag mesti diisi</string>
+    <string name="tema_app">Tema aplikasi</string>
+    <string name="tipo_connessione">Jenis sambungan</string>
+    <string name="tipo_di_lista">Jenis senarai</string>
+    <string name="tipo_protocollo">Jenis protokol</string>
+    <!--  U  -->
+    <string name="un_altra_cartella">Folder lain</string>
+    <string name="upload">Muat naik</string>
+    <string name="upload_completato">Muat naik siap</string>
+    <!--  V  -->
+    <!--  W  -->
+    <!--  X  -->
+    <!--  Y  -->
+    <!--  Z  -->
+    <!--  SYNC  -->
+    <string name="beta_function">Fungsi Beta</string>
+    <string name="sync">Sinkronisasi</string>
+    <string name="remote_folder_to_sync">Sinkronisasikan folder remote</string>
+    <string name="local_folder_to_sync">Sinkronisasi folder local</string>
+    <!--  EDITOR  -->
+    <string name="line_numbering">Penomboran barisan</string>
+    <string name="testo_acapo">Balutkan teks</string>
+    <string name="testo_indietro">Batal edit</string>
+    <string name="testo_rifai">Buat semula edit</string>
+    <string name="syntax_highlight">Serlahkan sinteks</string>
+    <!--  RATE  -->
+    <string name="rate_message">
+        Turbo Client membantu anda? Anda boleh membantu kami dengan mengambil masa untuk memberi undi dan
+        komen/cadangan. Terima kasih kerana menggunakan aplikasi ini.
+    </string>
+    <string name="vota">Undi</string>
+</resources>

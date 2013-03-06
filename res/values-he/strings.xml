@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">פצל את סרגל הפעולות</string>
+    <string name="account">חשבון</string>
+    <string name="acquisti_legati">כל התשלומים מקושרים אל חשבון הגוגל שלך</string>
+    <string name="aggiungi_account">הוסף חשבון</string>
+    <string name="aggiungi_cartella">הוסף תיקיה</string>
+    <string name="altezza_testo">גודל טקסט</string>
+    <string name="altro">אחר</string>
+    <string name="attiva">אקטיבי</string>
+    <!-- B -->
+    <string name="billing_non_supportato_titolo">תשלומים לא נתמכים</string>
+    <string name="billing_non_supportato_messaggio">השירות אינו זמין כרגע, אבל אתה יכול להשתמש באפליקציה כרגיל</string>
+    <!-- C -->
+    <string name="cancella">מחק</string>
+    <string name="cancellazione">מחק קבצים&#8230;</string>
+    <string name="caricamento">טוען&#8230;</string>
+    <string name="caricamento_veloce">זה יקח זמן מה&#8230;</string>
+    <string name="cartella_download">הורד תיקיה</string>
+    <string name="chiave_privata">מפתח פרטי</string>
+    <string name="chiaro">בהיר</string>
+    <string name="click_lungo_per_aprire">לחץ לחיצה ארוכה על התיקיה כדי לפתוח אותה!</string>
+    <string name="codifica">קידוד</string>
+    <string name="compra_adesso">שלם כעת</string>
+    <string name="condividi">שתף</string>
+    <!-- D -->
+    <string name="disconneti">התנתק</string>
+    <string name="dona_unabirra">תרום לי בירה</string>
+    <string name="dona_duebirre">תרום לי 2 בירות</string>
+    <string name="download">הורד</string>
+    <string name="download_completato">הורדה הושלמה</string>
+    <!-- E -->
+    <string name="elementi">אלמנטים</string>
+    <!-- F -->
+    <string name="fai_login">אתה חייב להתחבר !</string>
+    <string name="fatto">סיום</string>
+    <!-- G -->
+    <string name="gia_fatto">כבר יש</string>
+    <string name="guarda">תצוגה</string>
+    <string name="grazie">תודות.</string>
+    <string name="griglia">רשת</string>
+    <!-- H -->
+    <string name="host">שרת</string>
+    <!-- I -->
+    <string name="indietro">הקודם</string>
+    <string name="info">מידע</string>
+    <string name="invia_rapporti">שלח מידע אנונימי על באגים</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="limita_buffer_testi">הגבל את גודל המטמון בעת קריאת טקסט</string>
+    <string name="lista">רשימה</string>
+    <string name="locale">מקומי</string>
+    <string name="log_in">מתחבר&#8230;</string>
+    <!-- M -->
+    <string name="massime_dimensione">גודל המקסימלי לקובץ הוא 75 kB</string>
+    <string name="metti_wifi_on">הפעל בבקשה את החיבור האלחוטי</string>
+    <string name="modifica">ערוך</string>
+    <string name="muovi">העבר</string>
+    <!-- N -->
+    <string name="nessun_account">אין חשבונות</string>
+    <string name="nome_app">Turbo Client</string>
+    <string name="nome_utente">שם משתמש</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">פסיבי</string>
+    <string name="password">סיסמא</string>
+    <string name="password_criptata">הסיסמא שלך נשמרת בצורה מוצפנת במסד הנתונים</string>
+    <string name="porta">יציאה</string>
+    <string name="porta_non_lettere">היציאה חיבת להיות ערך מספרי</string>
+    <string name="preferenze">העדפות</string>
+    <string name="protocollo_principale">פרוטוקול ראשי</string>
+    <!-- Q -->
+    <string name="qualita_immagini">איכות נמוכה בתמונות</string>
+    <!-- R -->
+    <string name="remoto">מרוחק</string>
+    <string name="riavva_per_tema">כדי לשנות את העיצוב הפעל את התוכנה מחדש</string>
+    <string name="ricordamelo">הזכר לי מאוחר יותר</string>
+    <string name="rinomina">שנה שם</string>
+    <string name="riprova">נסה שוב</string>
+    <string name="root">ראשי</string>
+    <!-- S -->
+    <string name="scuro">שחור</string>
+    <string name="seleziona">בחר</string>
+    <string name="seleziona_account">בחר חשבון</string>
+    <string name="sicuro">אתה בטוח?</string>
+    <string name="sovrascrivi_file_locali">שכתב קבצים מקומיים</string>
+    <string name="sto_caricando">מעלה את הקבצים שלך, אנא המתן&#8230;</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">התגית לא יכולה להיות ריקה</string>
+    <string name="tema_app">עיצוב</string>
+    <string name="testo_acapo">גלישת טקסט</string>
+    <string name="tipo_connessione">סוג חיבור</string>
+    <string name="tipo_protocollo">סוג פרוטוקול</string>
+    <!-- U -->
+    <string name="upload">העלה</string>
+    <string name="upload_completato">העלאה הושלמה</string>
+    <!-- V -->
+    <string name="vista">תצוגה</string>
+    <string name="vota">דרג</string>
+    <string name="vuota">ריק</string>
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+</resources>

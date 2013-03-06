@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">Separar la barra de acciones</string>
+    <string name="account">Cuenta</string>
+    <string name="aggiungi_account">Nueva cuenta</string>
+    <string name="altezza_testo">Tamaño del texto</string>
+    <string name="altro">Otros</string>
+    <string name="attiva">Activo</string>
+    <!-- B -->
+    <!-- C -->
+    <string name="cancella">Borrar</string>
+    <string name="cancellazione">Borrando ficheros&#8230;</string>
+    <string name="caricamento">Cargando&#8230;</string>
+    <string name="caricamento_veloce">Un momento&#8230;</string>
+    <string name="cartella_download">Descargar carpeta</string>
+    <string name="cartella_locale_corrente">Carpeta local actual</string>
+    <string name="cartella_vuota">Carpeta vacia</string>
+    <string name="chiave_privata">Clave privada</string>
+    <string name="chiaro">Claro</string>
+    <string name="chiaro_scuro">Claro y oscuro</string>
+    <string name="codifica">Codificación</string>
+    <string name="condividi">Compartir</string>
+    <string name="crea_cartella_locale">Crear carpeta local</string>
+    <string name="crea_cartella_remota">Crear carpeta remota</string>
+    <string name="crea_cartella_se_non_esiste">Crear carpeta si no existe</string>
+    <!-- D -->
+    <string name="disconneti">Desconectar</string>
+    <string name="default_local_folder">Carpeta local por defecto</string>
+    <string name="dove_scaricare">¿Donde lo descargo?</string>
+    <string name="download">Descargar</string>
+    <string name="download_completato">Descarga completa</string>
+    <!-- E -->
+    <!-- F -->
+    <string name="fai_login">¡Tiene que iniciar sesión!</string>
+    <string name="fatto">Hecho</string>
+    <string name="file_troppo_grande">Lo siento, el fichero es demasiado grande</string>
+    <!-- G -->
+    <string name="gia_fatto">Ya existe</string>
+    <string name="guarda">Ver</string>
+    <string name="griglia">Rejilla</string>
+    <!-- H -->
+    <string name="home">Inicio</string>
+    <string name="host">Servidor</string>
+    <!-- I -->
+    <string name="info">Información</string>
+    <string name="invia_rapporti">Mandar reporte de error anonymo</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="leggi_e_modifica">Leer y editar</string>
+    <string name="lista">Lista</string>
+    <string name="locale">Local</string>
+    <string name="log_in">Iniciando sesión&#8230;</string>
+    <!-- M -->
+    <string name="metti_wifi_on">Por favor, active la Wifi</string>
+    <string name="modifica">Modificar</string>
+    <string name="mostra_file_nascosti_locali">Mostrar ficheros locales ocultos</string>
+    <string name="mostra_file_nascosti_remoti">Mostrar ficheros remotos ocultos</string>
+    <string name="muovi">Mover</string>
+    <!-- N -->
+    <string name="nascondi">Esconder</string>
+    <string name="nessun_account">No hay cuentas</string>
+    <string name="nome_app">Turbo Client</string>
+    <string name="nome_utente">Usuario</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">Pasivo</string>
+    <string name="password">Contraseña</string>
+    <string name="password_criptata">Su contraseña está cifrada en la base de datos</string>
+    <string name="porta">Puerto</string>
+    <string name="porta_non_lettere">El puerto sólo puede contener dígitos</string>
+    <string name="preferenze">Preferencias</string>
+    <string name="protocollo_principale">Protocolo principal</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="remoto">A distancia</string>
+    <string name="riavva_per_tema">Para cambiar el tema, reinicie la aplicación</string>
+    <string name="ricordamelo">Recuérdamelo luego</string>
+    <string name="rinomina">Renombrar</string>
+    <string name="root">Raíz</string>
+    <!-- S -->
+    <string name="salva">Guardar</string>
+    <string name="scuro">Oscuro</string>
+    <string name="seleziona">Seleccionar</string>
+    <string name="seleziona_account">Elija una cuenta</string>
+    <string name="seleziona_unfile">Seleccionar archivo</string>
+    <string name="sicuro">¿Está seguro?</string>
+    <string name="sovrascrivi_file_locali">Sobreescribir ficheros locales</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">La etiqueta no puede estar vacía</string>
+    <string name="tema_app">Tema de la aplicación</string>
+    <string name="tipo_connessione">Tipo de conexión</string>
+    <string name="tipo_di_lista">Tipo de lista</string>
+    <string name="tipo_protocollo">Tipo de protocolo</string>
+    <!-- U -->
+    <string name="un_altra_cartella">Otra carpeta</string>
+    <string name="upload">Carga</string>
+    <string name="upload_completato">Carga completada</string>
+    <!-- V -->
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+    <!-- SYNC -->
+    <string name="beta_function">Función Beta</string>
+    <string name="sync">Sincronizar</string>
+    <string name="remote_folder_to_sync">Carpeta remota a sincronizar</string>
+    <string name="local_folder_to_sync">Carpeta local a sincronizar</string>
+
+    <!-- EDITOR -->
+    <string name="line_numbering">Numerado de linea</string>
+    <string name="testo_acapo">Ajustar texto</string>
+    <string name="testo_indietro">Deshacer</string>
+    <string name="testo_rifai">rehacer</string>
+    <string name="syntax_highlight">Resaltar sintaxis</string>
+
+    <!-- RATE -->
+    <string name="rate_message">Si disfrutas usando Turbo Client por favor ayúdanos tomándote un momento para
+        votar/comentar la aplicación. ¡Gracias por tu ayuda!
+    </string>
+    <string name="vota">Vota</string>
+
+</resources>

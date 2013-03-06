@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<!--
+~ Copyright (c) 2013 Vlad Mihalachi.
+-->
+
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">Разделить панель действий</string>
+    <string name="account">Аккаунт</string>
+    <string name="acquisti_legati">Все покупки связаны с аккаунтом Google</string>
+    <string name="aggiungi_account">Добавить аккаунт</string>
+    <string name="aggiungi_cartella">Добавить папку</string>
+    <string name="altezza_testo">Размер текста</string>
+    <string name="altro">Прочее</string>
+    <string name="attiva">Действие</string>
+    <!-- B -->
+    <string name="billing_non_supportato_titolo">Покупка не поддерживается</string>
+    <string name="billing_non_supportato_messaggio">Сервис в данный момент оффлайн</string>
+    <!-- C -->
+    <string name="cancella">Удалить</string>
+    <string name="cancellazione">Удалить файлы</string>
+    <string name="caricamento">Загрузка</string>
+    <string name="caricamento_veloce">Подождите минуту</string>
+    <string name="cartella_download">Скачать папку</string>
+    <string name="chiave_privata">Закрытый ключ</string>
+    <string name="chiaro">Светлая</string>
+    <string name="click_lungo_per_aprire">Длинное нажатие, чтобы открыть папку</string>
+    <string name="codifica">Кодировка</string>
+    <string name="compra_adesso">Купить</string>
+    <string name="condividi">Расшарить</string>
+    <!-- D -->
+    <string name="disconneti">Отключиться</string>
+    <string name="dona_unabirra">Пожертвовать на пиво</string>
+    <string name="dona_duebirre">Пожертвовать на два пива</string>
+    <string name="download">Скачать</string>
+    <string name="download_completato">Загрузка завершена</string>
+    <!-- E -->
+    <string name="elementi">элементы</string>
+    <!-- F -->
+    <string name="fai_login">Нужно залогиниться!</string>
+    <string name="fatto">Завершено</string>
+    <!-- G -->
+    <string name="gia_fatto">Уже имеется</string>
+    <string name="guarda">Просмотр</string>
+    <string name="grazie">Спасибо</string>
+    <string name="griglia">Сетка</string>
+    <!-- H -->
+    <string name="host">Хост</string>
+    <!-- I -->
+    <string name="indietro">Назад</string>
+    <string name="info">Информация</string>
+    <string name="invia_rapporti">Отослать анонимный багрепорт</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="limita_buffer_testi">Размер буфера для чтения текста</string>
+    <string name="lista">Лист</string>
+    <string name="locale">Локальный</string>
+    <string name="log_in">Логин в</string>
+    <!-- M -->
+    <string name="massime_dimensione">Максимальный размер файла 75 kB</string>
+    <string name="metti_wifi_on">Включите WiFi</string>
+    <string name="modifica">Редактировать</string>
+    <string name="muovi">Переместить</string>
+    <!-- N -->
+    <string name="nessun_account">Нет учетки</string>
+    <string name="nome_app">Turbo Client</string>
+    <string name="nome_utente">Логин</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">Пассивный</string>
+    <string name="password">Пароль</string>
+    <string name="password_criptata">Пароль сохранен в шифрованном виде</string>
+    <string name="porta">Порт</string>
+    <string name="porta_non_lettere">Порт может содержать только цифры</string>
+    <string name="preferenze">Опции</string>
+    <string name="protocollo_principale">Главный протокол</string>
+    <!-- Q -->
+    <string name="qualita_immagini">Низкое качество картинки</string>
+    <!-- R -->
+    <string name="remoto">Удаленный</string>
+    <string name="riavva_per_tema">Для смены темы нужен рестарт</string>
+    <string name="ricordamelo">Напомнить позже</string>
+    <string name="rinomina">Переименовать</string>
+    <string name="riprova">Попробуй позже</string>
+    <string name="root">Корень</string>
+    <!-- S -->
+    <string name="scuro">Темный</string>
+    <string name="seleziona">Выбор</string>
+    <string name="seleziona_account">Выбор аккаунта</string>
+    <string name="seleziona_unfile">Выбор файла</string>
+    <string name="sicuro">Вы уверены?</string>
+    <string name="sovrascrivi_file_locali">Перезаписать локальные файлы</string>
+    <string name="sto_caricando">Аплоад файлов, ждите</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">Тэг не может быть пустым</string>
+    <string name="tema_app">Тема</string>
+    <string name="testo_acapo">Перенос текста</string>
+    <string name="tipo_connessione">Тип соединения</string>
+    <string name="tipo_protocollo">Тип протокола</string>
+    <!-- U -->
+    <string name="upload">Закачка</string>
+    <string name="upload_completato">Закачка завершена</string>
+    <!-- V -->
+    <string name="vista">Просмотр</string>
+    <string name="vota">Рейтинг</string>
+    <string name="vuota">Пустой</string>
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+</resources>

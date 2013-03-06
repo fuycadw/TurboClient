@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">Séparer la barre d&#2019;action</string>
+    <string name="account">Compte</string>
+    <string name="aggiungi_account">Ajouter un compte</string>
+    <string name="altezza_testo">Taille du texte</string>
+    <string name="altro">Autre</string>
+    <string name="attiva">Actif</string>
+    <!-- B -->
+    <!-- C -->
+    <string name="cancella">Supprimer</string>
+    <string name="cancellazione">Suppression des fichiers&#8230;</string>
+    <string name="caricamento">Chargement&#8230;</string>
+    <string name="caricamento_veloce">Cela peut prendre un moment&#8230;</string>
+    <string name="cartella_download">Télécharger le dossier</string>
+    <string name="cartella_locale_corrente">Dossier local actuel</string>
+    <string name="cartella_vuota">Dossier vide</string>
+    <string name="chiave_privata">Clé privée</string>
+    <string name="chiaro">Clair</string>
+    <string name="chiaro_scuro">Clair et sombre</string>
+    <string name="codifica">Encodage</string>
+    <string name="condividi">Partager</string>
+    <string name="crea_cartella_locale">Créer un dossier local</string>
+    <string name="crea_cartella_remota">Créer un dossier distant</string>
+    <string name="crea_cartella_se_non_esiste">Créer le dossier si inexistant</string>
+    <!-- D -->
+    <string name="disconneti">Déconnecter</string>
+    <string name="default_local_folder">Dossier local par défaut</string>
+    <string name="dove_scaricare">Où télécharger ?</string>
+    <string name="download">Télécharger</string>
+    <string name="download_completato">Téléchargement fini</string>
+    <!-- E -->
+    <!-- F -->
+    <string name="fai_login">Vous devez vous connecter !</string>
+    <string name="fatto">Effectué</string>
+    <string name="file_troppo_grande">Dossier, le fichier est trop gros !</string>
+    <!-- G -->
+    <string name="gia_fatto">Déjà fait</string>
+    <string name="guarda">Vu</string>
+    <string name="griglia">Grille</string>
+    <!-- H -->
+    <string name="home">Home</string>
+    <string name="host">Hôte</string>
+    <!-- I -->
+    <string name="info">Informations</string>
+    <string name="invia_rapporti">Envoyer des rapports de bug anonymes</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="leggi_e_modifica">Voir et éditer</string>
+    <string name="lista">Liste</string>
+    <string name="locale">Local</string>
+    <string name="log_in">Connexion en cours&#8230;</string>
+    <!-- M -->
+    <string name="metti_wifi_on">Merci de d&#2019;activer le Wifi</string>
+    <string name="modifica">Éditer</string>
+    <string name="mostra_file_nascosti_locali">Voir les fichiers locaux cachés</string>
+    <string name="mostra_file_nascosti_remoti">Voir les fichiers distants cachés</string>
+    <string name="muovi">Déplacer</string>
+    <!-- N -->
+    <string name="nascondi">Cacher</string>
+    <string name="nessun_account">Pas de compte</string>
+    <string name="nome_app">Turbo Client</string>
+    <string name="nome_utente">Nom d&#2019;utilisateur</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">Passif</string>
+    <string name="password">Mot de passe</string>
+    <string name="password_criptata">Votre mot de passe est sauvegardé crypté dans la base de données</string>
+    <string name="porta">Port</string>
+    <string name="porta_non_lettere">Le port ne peut contenir que des chiffres</string>
+    <string name="preferenze">Préférences</string>
+    <string name="protocollo_principale">Protocole principal</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="remoto">Distant</string>
+    <string name="riavva_per_tema">Pour changer de thème, redémarrer l&#2019;application</string>
+    <string name="ricordamelo">Me rappeler plus tard</string>
+    <string name="rinomina">Renommer</string>
+    <string name="root">Dossier</string>
+    <!-- S -->
+    <string name="salva">Sauver</string>
+    <string name="scuro">Sombre</string>
+    <string name="seleziona">Sélectionner</string>
+    <string name="seleziona_account">Sélectionner un compte</string>
+    <string name="seleziona_unfile">Sélectionner un fichier</string>
+    <string name="sicuro">Êtes-vous sûr ?</string>
+    <string name="sovrascrivi_file_locali">Écraser les fichiers locaux</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">le Tag ne peut pas être vide</string>
+    <string name="tema_app">Thème de l&#2019;application</string>
+    <string name="tipo_connessione">Type de connexion</string>
+    <string name="tipo_di_lista">Type de liste</string>
+    <string name="tipo_protocollo">Type de protocole</string>
+    <!-- U -->
+    <string name="un_altra_cartella">Autre dossier</string>
+    <string name="upload">Envoi</string>
+    <string name="upload_completato">Envoi terminé</string>
+    <!-- V -->
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+    <!-- SYNC -->
+    <string name="beta_function">Fonction en bêta</string>
+    <string name="sync">Synchronisation</string>
+    <string name="remote_folder_to_sync">Dossier distant à synchroniser</string>
+    <string name="local_folder_to_sync">Dossier local à synchroniser</string>
+
+    <!-- EDITOR -->
+    <string name="line_numbering">Numérotation de ligne</string>
+    <string name="testo_acapo">Retour auto à la ligne</string>
+    <string name="testo_indietro">Annuler</string>
+    <string name="testo_rifai">Rétablir</string>
+    <string name="syntax_highlight">Mise en surbrillance</string>
+
+    <!-- RATE -->
+    <string name="rate_message">Si vous appréciez l\\\'utilisation de Turbo Client, merci de nous aider en prenant un
+        moment pour noter/commenter cette application. Merci pour votre aide !
+    </string>
+    <string name="vota">Noter</string>
+
+</resources>

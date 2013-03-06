@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<!--
+~ Copyright (c) 2013 Vlad Mihalachi.
+-->
+
+<resources>
+
+    <!-- A -->
+    <string name="account">Konto</string>
+    <string name="aggiungi_account">Pridať konto</string>
+    <string name="aggiungi_cartella">Pridať zložku</string>
+    <!-- B -->
+    <!-- C -->
+    <!-- D -->
+    <!-- E -->
+    <!-- F -->
+    <!-- G -->
+    <!-- H -->
+    <!-- I -->
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <!-- M -->
+    <!-- N -->
+    <!-- O -->
+    <!-- P -->
+    <!-- Q -->
+    <!-- R -->
+    <!-- S -->
+    <string name="seleziona_unfile">Vybrať súbor</string>
+    <string name="sicuro">Ste si istý?</string>
+    <string name="sovrascrivi_file_locali">Prepísať lokálne súbory</string>
+    <string name="sto_caricando">Nahrávam Vaše súbory...</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">Značka nesmie byť prázdna</string>
+    <string name="tema_app">Téma</string>
+    <string name="testo_acapo">Obtekanie textu</string>
+    <string name="tipo_connessione">Typ pripojenia</string>
+    <string name="tipo_protocollo">Typ protokolu</string>
+    <!-- U -->
+    <string name="upload">Nahrať</string>
+    <string name="upload_completato">Nahrávanie dokončené</string>
+    <!-- V -->
+    <string name="vista">Zobrazenie</string>
+    <string name="vota">Ohodnotiť</string>
+    <string name="vuota">Prázdne</string>
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+</resources>

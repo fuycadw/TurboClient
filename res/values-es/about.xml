@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~ Copyright (c) 2012, 2013 Vlad Mihalachi
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<!--
+  ~ Copyright (c) 2013 Vlad Mihalachi.
+  -->
+
+<resources>
+
+    <string name="aboutactivity_app_category">Información sobre la aplicación</string>
+    <string name="aboutactivity_miscellaneous_category">Misceláneos</string>
+    <string name="aboutactivity_version">Versión %1$s</string>
+    <string name="aboutactivity_author">Autor</string>
+    <string name="aboutactivity_authorsite">Site del autor</string>
+    <string name="aboutactivity_authorsite_summary">Abrir el site del autor</string>
+    <string name="aboutactivity_authoremail">Correo del autor</string>
+    <string name="aboutactivity_authoremail_summary">Enviar correo al autor</string>
+    <string name="aboutactivity_authortwitter">Twitter</string>
+    <string name="aboutactivity_authortwitter_summary">Abrir el twitter</string>
+    <string name="aboutactivity_readme">Leeme</string>
+    <string name="aboutactivity_readme_summary">Leer la referencia</string>
+    <string name="aboutactivity_faq_summary">Mostrar las faqs</string>
+    <string name="aboutactivity_changelog">Log de cambios</string>
+    <string name="aboutactivity_changelog_summary">Mostrar el log de cambios</string>
+    <string name="aboutactivity_license">Términos del servicio</string>
+    <string name="aboutactivity_license_summary">Leer los términos del servicio</string>
+    <string name="aboutactivity_license_accept">Aceptar</string>
+    <string name="aboutactivity_license_refuse">Declinar</string>
+    <string name="aboutactivity_privacy">Políticas de privacidad</string>
+    <string name="aboutactivity_privacy_summary">Leer las políticas de privacidad</string>
+    <string name="aboutactivity_todo">Cosas pendientes</string>
+    <string name="aboutactivity_todo_summary">Ver los cambios pendientes</string>
+    <string name="aboutactivity_donate">Donar</string>
+    <string name="aboutactivity_donate_summary">¡Gracias por el soporte!</string>
+    <string name="aboutactivity_market">Store de Android</string>
+    <string name="aboutactivity_market_summary">¡Envía feedback y puntúa!</string>
+    <string name="aboutactivity_authormarket">Market del autor</string>
+    <string name="aboutactivity_authormarket_summary">¡Ver las aplicaciones del autor!</string>
+    <string name="aboutactivity_reportbug">Reportar un defecto</string>
+    <string name="aboutactivity_reportbug_summary">¡Gracias por su tiempo!</string>
+
+</resources>

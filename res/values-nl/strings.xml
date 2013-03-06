@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">Split de actionbalk</string>
+    <string name="account">Account</string>
+    <string name="aggiungi_account">Account toevoegen</string>
+    <string name="altezza_testo">Tekstgrootte</string>
+    <string name="altro">Overig</string>
+    <string name="attiva">Actief</string>
+    <!-- B -->
+    <!-- C -->
+    <string name="cancella">Verwijderen</string>
+    <string name="cancellazione">Bestanden verwijderen&#8230;</string>
+    <string name="caricamento">Laden&#8230;</string>
+    <string name="caricamento_veloce">Het duurt eventjes&#8230;</string>
+    <string name="cartella_download">Downloadmap</string>
+    <string name="cartella_locale_corrente">Huidige lokale map</string>
+    <string name="cartella_vuota">Lege map</string>
+    <string name="chiave_privata">Privesleutel</string>
+    <string name="chiaro">Licht</string>
+    <string name="chiaro_scuro">Licht en donker</string>
+    <string name="codifica">Codering</string>
+    <string name="condividi">Delen</string>
+    <string name="crea_cartella_locale">Maak lokale map</string>
+    <string name="crea_cartella_remota">Maak map op afstand</string>
+    <string name="crea_cartella_se_non_esiste">Maak de map als deze niet bestaat</string>
+    <!-- D -->
+    <string name="disconneti">Loskoppelen</string>
+    <string name="default_local_folder">Standaard lokale map</string>
+    <string name="dove_scaricare">Waar moet dit gedownload worden?</string>
+    <string name="download">Download</string>
+    <string name="download_completato">Download voltooid</string>
+    <!-- E -->
+    <!-- F -->
+    <string name="fai_login">Je moet inloggen!</string>
+    <string name="fatto">Gedaan</string>
+    <string name="file_troppo_grande">Sorry, het bestand is te groot!</string>
+    <!-- G -->
+    <string name="gia_fatto">Reeds gedaan</string>
+    <string name="guarda">Bekijken</string>
+    <string name="griglia">Tegels</string>
+    <!-- H -->
+    <string name="home">Home</string>
+    <string name="host">Host</string>
+    <!-- I -->
+    <string name="info">Info</string>
+    <string name="invia_rapporti">Verstuur anonieme foutrapporten</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="leggi_e_modifica">Lezen en wijzigen</string>
+    <string name="lista">Lijst</string>
+    <string name="locale">Lokaal</string>
+    <string name="log_in">Inloggen&#8230;</string>
+    <!-- M -->
+    <string name="metti_wifi_on">Schakel Wifi in aub</string>
+    <string name="modifica">Aanpassen</string>
+    <string name="mostra_file_nascosti_locali">Toon verborgen bestanden lokaal</string>
+    <string name="mostra_file_nascosti_remoti">Toon verborgen bestanden op afstand</string>
+    <string name="muovi">Verplaatsen</string>
+    <!-- N -->
+    <string name="nascondi">Verbergen</string>
+    <string name="nessun_account">Geen accounts</string>
+    <string name="nome_app">Turboclient</string>
+    <string name="nome_utente">Gebruikersnaam</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">Passief</string>
+    <string name="password">Wachtwoord</string>
+    <string name="password_criptata">Je wachtwoord staat versleuteld in de database</string>
+    <string name="porta">Poort</string>
+    <string name="porta_non_lettere">Het poortnummer mag alleen getallen bevatten</string>
+    <string name="preferenze">Voorkeuren</string>
+    <string name="protocollo_principale">Hoofdprotocol</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="remoto">Op afstand</string>
+    <string name="riavva_per_tema">Herstart de applicatie om het thema aan te passen</string>
+    <string name="ricordamelo">Herinner me later</string>
+    <string name="rinomina">Hernoemen</string>
+    <string name="root">Root</string>
+    <!-- S -->
+    <string name="salva">Opslaan</string>
+    <string name="scuro">Donker</string>
+    <string name="seleziona">Selecteren</string>
+    <string name="seleziona_account">Selecteer een account</string>
+    <string name="seleziona_unfile">Selecteer een bestand</string>
+    <string name="sicuro">Weet je dit zeker?</string>
+    <string name="sovrascrivi_file_locali">Lokale bestanden overschrijven</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">Tag mag niet leeg zijn</string>
+    <string name="tema_app">Applicatiethema</string>
+    <string name="tipo_connessione">Verbindingstype</string>
+    <string name="tipo_di_lista">Lijst type</string>
+    <string name="tipo_protocollo">Protocoltype</string>
+    <!-- U -->
+    <string name="un_altra_cartella">Andere map</string>
+    <string name="upload">Upload</string>
+    <string name="upload_completato">Upload voltooid</string>
+    <!-- V -->
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+    <!-- SYNC -->
+    <string name="beta_function">Betafunctie</string>
+    <string name="sync">Sync</string>
+    <string name="remote_folder_to_sync">Map op afstand om te synchroniseren</string>
+    <string name="local_folder_to_sync">Lokale map om te synchroniseren</string>
+
+    <!-- EDITOR -->
+    <string name="line_numbering">Regelnummers</string>
+    <string name="testo_acapo">Automatische terugloop</string>
+    <string name="testo_indietro">Ongedaan maken</string>
+    <string name="testo_rifai">Opnieuw uitvoeren</string>
+    <string name="syntax_highlight">Syntax highlight</string>
+
+    <!-- RATE -->
+    <string name="rate_message">Help ons door de app te beoordelen als het gebruik van Turbo Client je bevalt. Bedankt
+        voor je hulp!
+    </string>
+    <string name="vota">Beoordelen</string>
+
+</resources>

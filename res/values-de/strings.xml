@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">Actionbar aufteilen</string>
+    <string name="account">Benutzerkonto</string>
+    <string name="aggiungi_account">Benutzerkonto hinzufügen</string>
+    <string name="altezza_testo">Textgröße</string>
+    <string name="altro">Erweitert</string>
+    <string name="attiva">Aktiv</string>
+    <!-- B -->
+    <!-- C -->
+    <string name="cancella">Löschen</string>
+    <string name="cancellazione">Dateien löschen&#8230;</string>
+    <string name="caricamento">Laden&#8230;</string>
+    <string name="caricamento_veloce">Bitte warten&#8230;</string>
+    <string name="cartella_download">Download-Ordner</string>
+    <string name="cartella_locale_corrente">Aktueller lokaler Ordner</string>
+    <string name="cartella_vuota">Leerer Ordner</string>
+    <string name="chiave_privata">Privater Schlüssel</string>
+    <string name="chiaro">Hell</string>
+    <string name="chiaro_scuro">Hell und dunkel</string>
+    <string name="codifica">Kodierung</string>
+    <string name="condividi">Teilen</string>
+    <string name="crea_cartella_locale">Lokalen Ordner erstellen</string>
+    <string name="crea_cartella_remota">Entfernten Ordner erstellen</string>
+    <string name="crea_cartella_se_non_esiste">Ordner erstellen, falls nicht vorhanden</string>
+    <!-- D -->
+    <string name="disconneti">Trennen</string>
+    <string name="default_local_folder">Bevorzugter lokaler Ordner</string>
+    <string name="dove_scaricare">Wo soll gespeichert werden?</string>
+    <string name="download">Herunterladen</string>
+    <string name="download_completato">Herunterladen abgeschlossen</string>
+    <!-- E -->
+    <!-- F -->
+    <string name="fai_login">Bitte einloggen</string>
+    <string name="fatto">Erledigt</string>
+    <string name="file_troppo_grande">Die Datei ist zu groß!</string>
+    <!-- G -->
+    <string name="gia_fatto">Bereits vorhanden</string>
+    <string name="guarda">Anzeigen</string>
+    <string name="griglia">Raster</string>
+    <!-- H -->
+    <string name="home">Home</string>
+    <string name="host">Server</string>
+    <!-- I -->
+    <string name="info">Informationen</string>
+    <string name="invia_rapporti">Anonyme Fehlerberichte senden</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="leggi_e_modifica">Lesen und bearbeiten</string>
+    <string name="lista">Liste</string>
+    <string name="locale">Lokal</string>
+    <string name="log_in">Einloggen&#8230;</string>
+    <!-- M -->
+    <string name="metti_wifi_on">Bitte WLAN einschalten</string>
+    <string name="modifica">Bearbeiten</string>
+    <string name="mostra_file_nascosti_locali">Lokale versteckte Dateien anzeigen</string>
+    <string name="mostra_file_nascosti_remoti">Entfernte versteckte Dateien anzeigen</string>
+    <string name="muovi">Verschieben</string>
+    <!-- N -->
+    <string name="nascondi">Verbergen</string>
+    <string name="nessun_account">Keine Benutzerkonten</string>
+    <string name="nome_app">Turbo Client</string>
+    <string name="nome_utente">Benutzername</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">Passiver Modus</string>
+    <string name="password">Kennwort</string>
+    <string name="password_criptata">Ihr Passwort wird verschlüsselt in der Datenbank gespeichert</string>
+    <string name="porta">Port</string>
+    <string name="porta_non_lettere">Der Port darf nur aus Zahlen bestehen</string>
+    <string name="preferenze">Einstellungen</string>
+    <string name="protocollo_principale">Standardprotokoll</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="remoto">Remote</string>
+    <string name="riavva_per_tema">Neustart erforderlich</string>
+    <string name="ricordamelo">Später erinnern</string>
+    <string name="rinomina">Umbenennen</string>
+    <string name="root">Standardverzeichnis</string>
+    <!-- S -->
+    <string name="salva">Speichern</string>
+    <string name="scuro">Dunkel</string>
+    <string name="seleziona">Auswählen</string>
+    <string name="seleziona_account">Benutzerkonto auswählen</string>
+    <string name="seleziona_unfile">Datei auswählen</string>
+    <string name="sicuro">Fortfahren?</string>
+    <string name="sovrascrivi_file_locali">Lokale Dateien überschreiben</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">Die Beschreibung darf nicht leer sein</string>
+    <string name="tema_app">Design</string>
+    <string name="tipo_connessione">Verbindungsart</string>
+    <string name="tipo_di_lista">Listenart</string>
+    <string name="tipo_protocollo">Protokoll</string>
+    <!-- U -->
+    <string name="un_altra_cartella">Anderer Ordner</string>
+    <string name="upload">Hochladen</string>
+    <string name="upload_completato">Hochladen abgeschlossen</string>
+    <!-- V -->
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+    <!-- SYNC -->
+    <string name="beta_function">Betafunktion</string>
+    <string name="sync">Synchronisieren</string>
+    <string name="remote_folder_to_sync">Entfernten Ordner zum synchronisieren</string>
+    <string name="local_folder_to_sync">Lokalen Ordner zum synchronisieren</string>
+
+    <!-- EDITOR -->
+    <string name="line_numbering">Zeilennummern</string>
+    <string name="testo_acapo">Zeilenumbruch</string>
+    <string name="testo_indietro">Rückgängig</string>
+    <string name="testo_rifai">Wiederholen</string>
+    <string name="syntax_highlight">Syntaxhervorhebung</string>
+
+    <!-- RATE -->
+    <string name="rate_message">Wenn dir Turbo Client gefällt nimm dir doch bitte die Zeit um eine Bewertung
+        abzugeben.
+    </string>
+    <string name="vota">Bewerten</string>
+
+</resources>

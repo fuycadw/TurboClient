@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~ Copyright (c) 2012, 2013 Vlad Mihalachi
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!-- A -->
+    <string name="ab_inbasso">Divideix la barra d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'acció</string>
+    <string name="account">Compte</string>
+    <string name="aggiungi_account">Compte nou</string>
+    <string name="altezza_testo">Mida del text</string>
+    <string name="altro">Altre</string>
+    <string name="attiva">Activa</string>
+    <!-- B -->
+    <!-- C -->
+    <string name="cancella">Esborra</string>
+    <string name="cancellazione">Esborrant fitxers...</string>
+    <string name="caricamento">Carregant...</string>
+    <string name="caricamento_veloce">Trigarà una estona</string>
+    <string name="cartella_download">Descarrega carpeta</string>
+    <string name="cartella_locale_corrente">Carpeta local actual</string>
+    <string name="cartella_vuota">Carpeta buida</string>
+    <string name="chiave_privata">Clau privada</string>
+    <string name="chiaro">Clar</string>
+    <string name="chiaro_scuro">Clar i fosc</string>
+    <string name="codifica">Codifica</string>
+    <string name="condividi">Comparteix</string>
+    <string name="crea_cartella_locale">Crea carpeta local</string>
+    <string name="crea_cartella_remota">Crea carpeta remota</string>
+    <string name="crea_cartella_se_non_esiste">Crea la carpeta si no existeix</string>
+    <!-- D -->
+    <string name="disconneti">Desconnecta</string>
+    <string name="default_local_folder">Carpeta local per omissió</string>
+    <string name="dove_scaricare">On descarregar?</string>
+    <string name="download">Descarrega</string>
+    <string name="download_completato">Descàrrega completa</string>
+    <!-- E -->
+    <!-- F -->
+    <string name="fai_login">Heu d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'ingressar</string>
+    <string name="fatto">Fet</string>
+    <string name="file_troppo_grande">Ho sentim, el fitxer és massa gran!</string>
+    <!-- G -->
+    <string name="gia_fatto">Ja fet</string>
+    <string name="guarda">Vista</string>
+    <string name="griglia">Graella</string>
+    <!-- H -->
+    <string name="home">Inici</string>
+    <string name="host">Hoste</string>
+    <!-- I -->
+    <string name="info">Info</string>
+    <string name="invia_rapporti">Envieu relacó d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'errors anònimament</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="leggi_e_modifica">Llegiu i Editeu</string>
+    <string name="lista">Llista</string>
+    <string name="locale">Local</string>
+    <string name="log_in">Ingressant...</string>
+    <!-- M -->
+    <string name="metti_wifi_on">Si us plau, connecteu la WiFi</string>
+    <string name="modifica">Edita</string>
+    <string name="mostra_file_nascosti_locali">Mostra els fitxers ocults locals</string>
+    <string name="mostra_file_nascosti_remoti">Mostra els fitxers ocults remots</string>
+    <string name="muovi">Mou</string>
+    <!-- N -->
+    <string name="nascondi">Oculta</string>
+    <string name="nessun_account">Sense comptes</string>
+    <string name="nome_app">Client Turbo</string>
+    <string name="nome_utente">Nom d\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'usuari</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="passiva">Passiu</string>
+    <string name="password">Contrasenya</string>
+    <string name="password_criptata">La vostra contrasenya es desa encriptada a la basa de dades</string>
+    <string name="porta">Port</string>
+    <string name="porta_non_lettere">El port només pot contenir dígits</string>
+    <string name="preferenze">Preferències</string>
+    <string name="protocollo_principale">Control principal</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="remoto">Remot</string>
+    <string name="riavva_per_tema">Per canviar el tema, reinicieu l\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'aplicació</string>
+    <string name="ricordamelo">Recordeu-m\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'ho més tard</string>
+    <string name="rinomina">Reanomena</string>
+    <string name="root">Arrel</string>
+    <!-- S -->
+    <string name="salva">Desa</string>
+    <string name="scuro">Fosc</string>
+    <string name="seleziona">Selecciona</string>
+    <string name="seleziona_account">Selecciona un compte</string>
+    <string name="seleziona_unfile">Selecciona un fitxer</string>
+    <string name="sicuro">Segur?</string>
+    <string name="sovrascrivi_file_locali">Sobreescriu fitxers locals</string>
+    <!-- T -->
+    <string name="tag_non_vuoto">S\\\'ha d\\\'informar l\\\'identificador</string>
+    <string name="tema_app">Tema de l\'app</string>
+    <!-- U -->
+    <!-- V -->
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+    <!-- SYNC -->
+
+    <!-- EDITOR -->
+
+    <!-- RATE -->
+
+</resources>

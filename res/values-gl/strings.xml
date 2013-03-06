@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Copyright (c) 2012, 2013 Vlad Mihalachi
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!-- A -->
+    <string name="account">Conta</string>
+    <string name="aggiungi_account">Nova Conta</string>
+    <string name="altezza_testo">Tamaño do Texto</string>
+    <string name="altro">Outro</string>
+    <string name="attiva">Activo</string>
+    <!-- B -->
+    <!-- C -->
+    <string name="cancella">Borrar</string>
+    <string name="cancellazione">Borrar Ficheiros</string>
+    <string name="caricamento">Cargando</string>
+    <string name="cartella_download">Descargar Cartafol</string>
+    <string name="cartella_vuota">Cartafol Baleiro</string>
+    <string name="chiave_privata">Chave Privada</string>
+    <string name="crea_cartella_locale">Crear Cartafol Local</string>
+    <string name="crea_cartella_remota">Crear Cartafol Remoto</string>
+    <!-- D -->
+    <string name="default_local_folder">Cartafol Local Predeterminado</string>
+    <string name="download">Descargar</string>
+    <string name="download_completato">Descarga Completa</string>
+    <!-- E -->
+    <!-- F -->
+    <string name="file_troppo_grande">Disculpe, o ficheiro e demasiado grande!</string>
+    <!-- G -->
+    <string name="guarda">Ver</string>
+    <!-- H -->
+    <string name="home">Casa</string>
+    <!-- I -->
+    <string name="info">Información</string>
+    <!-- J -->
+    <!-- K -->
+    <!-- L -->
+    <string name="leggi_e_modifica">Leer e Modificar</string>
+    <string name="lista">Lista</string>
+    <string name="locale">Local</string>
+    <!-- M -->
+    <string name="metti_wifi_on">Por Favor Acende o WiFi</string>
+    <string name="modifica">Modificar</string>
+    <string name="mostra_file_nascosti_locali">Ensinar Os Ficheiros Locais Ocultos</string>
+    <string name="mostra_file_nascosti_remoti">Ensinar Os Ficheiros Remotos Ocultos</string>
+    <string name="muovi">Mover</string>
+    <!-- N -->
+    <string name="nessun_account">Non Hai Contas</string>
+    <string name="nome_app">Turbo Cliente</string>
+    <string name="nome_utente">Nome de Usuario</string>
+    <!-- O -->
+    <!-- P -->
+    <string name="password">Contrasinal</string>
+    <string name="porta">Porto</string>
+    <string name="preferenze">Axustes</string>
+    <!-- Q -->
+    <!-- R -->
+    <string name="remoto">Remoto</string>
+    <string name="rinomina">Renomear</string>
+    <string name="root">Root</string>
+    <!-- S -->
+    <string name="salva">Gardar</string>
+    <string name="seleziona">Seleccionar</string>
+    <string name="seleziona_account">Elixe Unha Conta</string>
+    <string name="seleziona_unfile">Seleccionar Ficheiro</string>
+    <!-- T -->
+    <string name="tema_app">Tema da Aplicación</string>
+    <string name="tipo_connessione">Tipo de Conexión</string>
+    <string name="tipo_di_lista">Tipo de Lista</string>
+    <string name="tipo_protocollo">Tipo de Protocolo</string>
+    <!-- U -->
+    <string name="upload">Subir</string>
+    <string name="upload_completato">Subida Completa</string>
+    <!-- V -->
+    <!-- W -->
+    <!-- X -->
+    <!-- Y -->
+    <!-- Z -->
+
+    <!-- SYNC -->
+    <string name="sync">Sincronizar</string>
+    <string name="remote_folder_to_sync">Sincronizar Cartafol Remoto</string>
+    <string name="local_folder_to_sync">Sincronizar Cartafol Local</string>
+
+    <!-- EDITOR -->
+
+    <!-- RATE -->
+    <string name="vota">Vota</string>
+
+</resources>
