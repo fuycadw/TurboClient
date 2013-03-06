@@ -15,9 +15,6 @@
  * limitations under the License.
  ******************************************************************************/
 
-/*
- * Copyright (c) 2013 Vlad Mihalachi.
- */
 
 package it.sauronsoftware.ftp4j.extrecognizers;
 
