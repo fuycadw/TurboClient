@@ -15,9 +15,7 @@
  * limitations under the License.
  ******************************************************************************/
 
-/*
- * Copyright (c) 2013 Vlad Mihalachi.
- */
+
 
 package uk.co.senab.photoview;
 
