@@ -1,0 +1,109 @@
+<p>If you can translate please click here, Thank you!</p>
+ <a href="http://translate.vmihalachi.com">translate.vmihalachi.com</a>
+<p>Need more space for files long names ? try to use list instead of grid (Preference -> List type)</p>
+<p><em>More info in the Read Me (About -> Read Me)</em></p>
+
+<p><b>Founded a bug?</b></p>
+<p>Send Me an e-mail at turboclient4android@gmail.com</p>
+
+<p><b>1.5.2</b></p>
+<ul>
+<li>Added Galician, Japanese, Norwegian translations</li>
+<li>In the file dialog you can view the current directory path</li>
+<li>Fixed an FTPS/FTPES bug</li>
+</ul>
+
+<p><b>1.5.1</b></p>
+<ul>
+<li>Now you will be prompted for the password if it's empty</li>
+<li>Fixs</li>
+</ul>
+
+<p><b>1.5.0.1b</b></p>
+<ul>
+<li>Added CA translation and updated others</li>
+<li>Fixs</li>
+</ul>
+
+<p><1.5.0b (it may not be perfect because is a beta)</p>
+<p><b>NEW</b><p>
+<ul>
+<li>HR, ML, SK, RU, MS translations</li>
+<li>The local list logic was changed</li>
+<li>Support for Hidden Files</li>
+<li>Alphabetical sort of sftp files (more sorting types in the next update)</li>
+<li>Action mode for uploads</li>
+<li>The picture view was changed</li>
+<li>The file editor was changed</li>
+<ul>
+<li>UNDO/REDO functions (BETA)</li>
+<li>Line numbers (BETA)</li>
+</ul>
+<li>Progress bar when deleting files</li>
+<li>Now you can hide the download/upload dialog</li>
+<li>Now you can view file info</li>
+<li>Paypal donation now should work</li>
+<li>Added a Pure Light theme</li>
+</ul>
+<p><b>FIXED</b><p>
+<ul>
+<li>Theme bugs on <3.0</li>
+<li>Noop command not working</li>
+<li>Other things</li>
+</ul>
+
+<p><b>1.4.1</b></p>
+<ul>
+<li>Reduced the size of the app</li>
+<li>Fixed a big sftp problem :)</li>
+<li>Now the keyboard is configured for numbers if you want to change the text height</li>
+</ul>
+
+<p><b>1.4.2</b></p>
+<ul>
+<li>Added FR translation and updated other ones</li>
+<li>Fixed password bug</li>
+</ul>
+<p><b>1.4.1</b></p>
+<ul>
+<li>Reduced the size of the app</li>
+<li>Fixed a big sftp problem :)</li>
+<li>Now the keyboard is configured for numbers if you want to change the text height</li>
+</ul>
+
+<p><b>1.4</b></p>
+<ul>
+<li>View-pager in the detail activity (smartphones)</li>
+<li>New Icon</li>
+<li>FTP progress bar when downloading/uploading files</li>
+<li>Now links are supported</li>
+<li>Now you can see pictures without leaving the application</li>
+<li>Added a dialog to choose the private key</li>
+<li>Now the editor title is the name of file</li>
+<li>The host is used as subtitle</li>
+<li>Samsung multi-windows support (let me know if it works!)</li>
+<li>Now folders are first in the list</li>
+<li>Now the notification is updated for every file you download/upload</li>
+<li>Screen rotation is more faster</li>
+<li>Toast after updating the file in the editor</li>
+<li>Added KO and SI translations</li>
+<li>Changed the Editor background</li>
+<li>Better preference look on 10' tablets</li>
+<li>Support for the Google Backup Service</li>
+<li>Option to set the quality of pictures</li>
+<li>Option to set if limit or no the buffer size</li>
+<li>Option to enable/disable the bug reports</li>
+<li>Other things are coming soon :)</li>
+</ul>
+
+<p<b>1.3</b></p>
+<ul>
+<li>Now big sftp downloads and uploads works!</li>
+<li>Option to set encoding in the editor</li>
+<li>Added NL,DE,AL,DK and ES translations</li>
+<li>Disabled the dictionary when you put the host, username, and root private key</li>
+<li>Now you can cancel sftp Upload/Download</li>
+<li>The subtitle is now hidden</li>
+<li>New icon to add accounts</li>
+<li>Other bugfix</li>
+</ul>
