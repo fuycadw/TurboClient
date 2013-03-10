@@ -13,17 +13,7 @@ It has a beatiful Holo Theme. It's designed for Smartphones and Tablets 8+.
 ![Example Image][1]![Example Image][2]
 
 ##Changelog
-###1.4
-Coming Soon
-###1.3
-* Now big sftp downloads and uploads works!
-* Option to set encoding
-* Added NL,DE,AL,DK and ES translations
-* Disabled the dictionary when you put the host, username, and root private key
-* Now you can cancel sftp Upload/Download
-* The subtitle is now hidden
-* New icon to add accounts
-* Other bugfix
+See XDA http://forum.xda-developers.com/showthread.php?t=2023646
 
 ##Credits
 
@@ -44,6 +34,7 @@ Coming Soon
 * NO: Joachim M. Giæver
 * NL: Duncan Krebbers
 * PL: Kamil Wojtczyk
+* PT: Welker Costa
 * RO: Dohot Adrian
 * RU: Leks13
 * SK: YumanSLO
