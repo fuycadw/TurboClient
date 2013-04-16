@@ -1,14 +1,12 @@
-#Turbo Client
-http://turboclient.vmihalachi.com/
-Sleek, intuitive, and powerful Android FTP/SFTP client for faster and easier server maintenance.
-**It's free, complete and without ads**
+#<a href="http://turboclient.vmihalachi.com/">Turbo Client</a>
+###Sleek, intuitive, and powerful Android FTP/SFTP client for faster and easier server maintenance.
+
+![Example Image][1]![Example Image][2]
 
 <a href="http://play.google.com/store/apps/details?id=turbo.client">
   <img alt="Turbo Client on Google Play"
          src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 </a>
-
-![Example Image][1]![Example Image][2]
 
 ##Changelog
 On XDA http://forum.xda-developers.com/showthread.php?t=2023646
